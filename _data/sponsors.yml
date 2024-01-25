@@ -3,4 +3,28 @@
    url: https://appsentinels.ai/
    backgroundSize: 125px
    type: Start-up
-- logo:
+ - logo: /assets/images/sponsors/Deepfactor.eps
+   name: Deepfactor
+   url: https://www.deepfactor.io/
+   backgroundSize: 125px
+   type: Silver
+ - logo: /assets/images/sponsors/Endor.svg
+   name: EndorLabs
+   url: https://www.endorlabs.com/
+   backgroundSize: 125px
+   type: Start-up
+ - logo: /assets/images/sponsors/
+   name:
+   url:
+   backgroundSize: 125px
+   type: 
+- logo: /assets/images/sponsors/
+   name:
+   url:
+   backgroundSize: 125px
+   type: 
+ - logo: /assets/images/sponsors/
+   name:
+   url:
+   backgroundSize: 125px
+   type: 
