@@ -33,18 +33,18 @@
    url: https://www.ox.security/
    backgroundSize: 125px
    type: Gold
- - logo: /assets/images/sponsors/
-   name: 
-   url: 
+ - logo: /assets/images/sponsors/Phoenix.png
+   name: Phoenix Security
+   url: https://phoenix.security/
    backgroundSize: 125px
-   type:
- - logo: /assets/images/sponsors/
-   name: 
-   url: 
+   type: Start-up
+ - logo: /assets/images/sponsors/SecureLayer7.png
+   name: SecureLayer7
+   url: https://securelayer7.net/home
    backgroundSize: 125px
-   type:
- - logo: /assets/images/sponsors/
-   name: 
-   url: 
+   type: Start-up
+ - logo: /assets/images/sponsors/Synopsys.png
+   name: Synopsys
+   url: https://www.synopsys.com/
    backgroundSize: 125px
-   type:
+   type: Gold
