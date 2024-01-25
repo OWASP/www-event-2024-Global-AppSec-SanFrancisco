@@ -3,7 +3,7 @@
    url: https://appsentinels.ai/
    backgroundSize: 125px
    type: Start-up
- - logo: /assets/images/sponsors/Deepfactor.eps
+ - logo: /assets/images/sponsors/Deepfactor.png
    name: Deepfactor
    url: https://www.deepfactor.io/
    backgroundSize: 125px
@@ -13,18 +13,18 @@
    url: https://www.endorlabs.com/
    backgroundSize: 125px
    type: Start-up
- - logo: /assets/images/sponsors/
-   name:
-   url:
+ - logo: /assets/images/sponsors/GitGuardian.svg
+   name: GitGuardian
+   url: https://www.gitguardian.com/
    backgroundSize: 125px
-   type: 
-- logo: /assets/images/sponsors/
-   name:
-   url:
+   type: Gold
+- logo: /assets/images/sponsors/IriusRiskNEWlogo.png
+   name: IriusRisk
+   url: https://www.iriusrisk.com/
    backgroundSize: 125px
-   type: 
- - logo: /assets/images/sponsors/
-   name:
-   url:
+   type: Diamond
+ - logo: /assets/images/sponsors/Mend.png
+   name: Mend
+   url: https://www.mend.io/
    backgroundSize: 125px
-   type: 
+   type: Silver
