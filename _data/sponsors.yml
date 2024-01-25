@@ -28,3 +28,23 @@
    url: https://www.mend.io/
    backgroundSize: 125px
    type: Silver
+ - logo: /assets/images/sponsors/OX_Security.png
+   name: Ox Security
+   url: https://www.ox.security/
+   backgroundSize: 125px
+   type: Gold
+ - logo: /assets/images/sponsors/
+   name: 
+   url: 
+   backgroundSize: 125px
+   type:
+ - logo: /assets/images/sponsors/
+   name: 
+   url: 
+   backgroundSize: 125px
+   type:
+ - logo: /assets/images/sponsors/
+   name: 
+   url: 
+   backgroundSize: 125px
+   type:
