@@ -48,3 +48,8 @@
    url: https://www.synopsys.com/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/Xeol.svg
+   name: Xeol
+   url: https://www.xeol.io/
+   backgroundSize: 125px
+   type: Start-Up
