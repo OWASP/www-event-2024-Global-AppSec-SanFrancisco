@@ -63,3 +63,8 @@
    url: https://mobb.ai/
    backgroundSize: 125px
    type: Start-Up
+ - logo: /assets/images/sponsors/ArmorCode.png
+   name: ArmorCode
+   url: https://www.armorcode.com/
+   backgroundSize: 125px
+   type: Diamond
