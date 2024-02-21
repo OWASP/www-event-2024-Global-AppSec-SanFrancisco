@@ -68,3 +68,8 @@
    url: https://www.armorcode.com/
    backgroundSize: 125px
    type: Diamond
+ - logo: /assets/images/sponsors/Corellium.png
+   name: Corellium
+   url: https://www.corellium.com/
+   backgroundSize: 125px
+   type: Gold
