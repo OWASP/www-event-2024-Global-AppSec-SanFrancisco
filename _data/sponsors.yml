@@ -73,3 +73,8 @@
    url: https://www.corellium.com/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/Nokod_logo.png
+   name: Nokod Security
+   url: https://nokodsecurity.com/
+   backgroundSize: 125px
+   type: Start-Up
