@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2022
+title: Global AppSec San Francisco 2024
 layout: event-x
 
 ---
