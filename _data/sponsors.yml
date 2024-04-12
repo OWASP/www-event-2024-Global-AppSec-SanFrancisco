@@ -108,12 +108,12 @@
    url: https://www.cobalt.io/
    backgroundSize: 125px
    type: Silver
- - logo: CycodeLogo.png/assets/images/sponsors/
+ - logo: /assets/images/sponsors/CycodeLogo.png
    name: Cycode
    url: https://cycode.com/
    backgroundSize: 125px
    type: Silver
- - logo: GuidePointVector.ai/assets/images/sponsors/
+ - logo: /assets/images/sponsors/GuidePointVector.ai
    name: Guidepoint
    url: https://www.guidepointsecurity.com/
    backgroundSize: 125px
