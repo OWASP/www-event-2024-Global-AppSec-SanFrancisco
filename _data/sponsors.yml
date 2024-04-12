@@ -128,3 +128,8 @@
    url: https://www.verimatrix.com/
    backgroundSize: 125px
    type: Diamond
+ - logo: /assets/images/sponsors/Appdome.png
+   name: Appdome
+   url: https://www.appdome.com/
+   backgroundSize: 125px
+   type: Diamond
