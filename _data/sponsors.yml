@@ -88,8 +88,14 @@
    url: https://apiiro.com/
    backgroundSize: 125px
    type: Silver
- - logo: Bright Security.png
-   name: /assets/images/sponsors/Bright Security
+ - logo: /assets/images/sponsors/Bright Security.png
+   name: Bright Security
    url: https://brightsec.com/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/Hounddog.aiLogo.png
+   name: HoundDog.ai
+   url: https://hounddog.ai/
+   backgroundSize: 125px
+   type: Start-Up
+   
