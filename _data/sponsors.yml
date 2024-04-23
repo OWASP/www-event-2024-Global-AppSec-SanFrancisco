@@ -142,4 +142,24 @@
    name: Kodem Security
    url: https://www.kodemsecurity.com/
    backgroundSize: 125px
-   type: Leaders Meeting 
+   type: Leaders Meeting  
+ - logo: /assets/images/sponsors/Pynt.png
+   name: Pynt
+   url: https://www.pynt.io/
+   backgroundSize: 125px
+   type: Silver
+ - logo: /assets/images/sponsors/Raven.png
+   name: Raven.io
+   url: https://raven.io/
+   backgroundSize: 125px
+   type: Start-Up
+ - logo: /assets/images/sponsors/SecurityInnovation.png
+   name: Security Innovation
+   url: https://www.securityinnovation.com/
+   backgroundSize: 125px
+   type: Silver
+ - logo: /assets/images/sponsors/SemgrepLogo.png
+   name: Semgrep
+   url: https://semgrep.dev/
+   backgroundSize: 125px
+   type: Diamond
