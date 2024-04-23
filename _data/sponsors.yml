@@ -163,3 +163,14 @@
    url: https://semgrep.dev/
    backgroundSize: 125px
    type: Diamond
+ - logo: /assets/images/sponsors/Backslash-logo.png
+   name: Backslash
+   url: https://backslash.com/
+   backgroundSize: 125px
+   type: Silver
+ - logo: /assets/images/sponsors/FOSSA.png
+   name: Fossa
+   url: https://fossa.com/
+   backgroundSize: 125px
+   type: Silver
+   
