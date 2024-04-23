@@ -133,3 +133,13 @@
    url: https://www.appdome.com/
    backgroundSize: 125px
    type: Diamond
+ - logo: /assets/images/sponsors/Adobe_logo.png
+   name: Adobe
+   url: https://www.adobe.com/
+   backgroundSize: 125px
+   type: Networking Reception
+ - logo: /assets/images/sponsors/Kodem.png
+   name: Kodem Security
+   url: https://www.kodemsecurity.com/
+   backgroundSize: 125px
+   type: Leaders Meeting 
