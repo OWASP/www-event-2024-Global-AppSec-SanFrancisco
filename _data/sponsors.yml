@@ -173,4 +173,9 @@
    url: https://fossa.com/
    backgroundSize: 125px
    type: Silver
+ - logo: /assets/images/sponsors/PaloAlto.png
+   name: Palo Alto
+   url: https://www.paloaltonetworks.com/
+   backgroundSize: 125px
+   type: Diamond
    
