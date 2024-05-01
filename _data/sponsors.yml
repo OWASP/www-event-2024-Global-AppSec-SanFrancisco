@@ -178,4 +178,23 @@
    url: https://www.paloaltonetworks.com/
    backgroundSize: 125px
    type: Diamond
-   
+ - logo: /assets/images/sponsors/Checkmarx-Logo-2.png
+   name: Checkmarx
+   url: https://checkmarx.com/
+   backgroundSize: 125px
+   type: Diamond
+ - logo: /assets/images/sponsors/Sonatype.png
+   name: Sonatype
+   url: https://www.sonatype.com/
+   backgroundSize: 125px
+   type: Diamond
+ - logo: /assets/images/sponsors/defectdojo_logo.png
+   name: DefectDojo
+   url: https://defectdojo.com/
+   backgroundSize: 125px
+   type: Silver
+ - logo: /assets/images/sponsors/Darwinium.jpg
+   name: Darwinium
+   url: https://www.darwinium.com/
+   backgroundSize: 125px
+   type: Start-Up
