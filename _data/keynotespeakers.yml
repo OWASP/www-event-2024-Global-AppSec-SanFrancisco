@@ -8,11 +8,12 @@
    abstract: >-
         Have you ever wondered how hackers think? Do you know what things most companies get wrong when trying to secure their apps? Do you know what to do instead?
         In this keynote, you'll hear stories from the front lines of ethical hacking. Led by Ted Harrington -- #1 bestselling author of Hackable, co-founder of IoT Village, and a leader of ethical hackers -- you'll learn how to build better, more secure systems, including:
-        <li>what it means to think like a hacker (and how to apply those principles)</li>
-        <li>the most common misconceptions and mistakes that people make in application security</li>
-        <li>what to do instead</li>
+        <ul>
+         <li>what it means to think like a hacker (and how to apply those principles)</li>
+         <li>the most common misconceptions and mistakes that people make in application security</li>
+         <li>what to do instead</li>
+        </ul>
         You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!
- 
  - image: jason_headshot.jpg
    name: Jason Haddix
 #  title: 
