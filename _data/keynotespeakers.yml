@@ -14,4 +14,12 @@ In this keynote, you'll hear stories from the front lines of ethical hacking. Le
  - the most common misconceptions and mistakes that people make in application security
  - what to do instead
 
-You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!
+You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!<br>
+ - image: jason_headshot.jpg
+   name: Jason Haddix
+#  title: The Hackable Method
+   bio: >- 
+        Jason Haddix AKA jhaddix is the CEO and “Hacker in Charge” at Arcanum Information Security. Arcanum is a world class assessment and training company. Jason has had a distinguished 20-year career in cybersecurity previously serving as CISO of Buddobot, CISO of Ubisoft, Head of Trust/Security/Operations at Bugcrowd, Director of Penetration Testing at HP, and Lead Penetration Tester at Redspin. He has also held positions doing mobile penetration testing, network/infrastructure security assessments, and static analysis. Jason is a hacker, bug hunter and currently ranked 57th all-time on Bugcrowd’s bug bounty leaderboards. Currently, he specializes in recon, web application analysis, and emerging technologies. Jason has also authored many talks on offensive security methodology, including speaking at cons such as DEFCON, Bsides, BlackHat, RSA, OWASP, Nullcon, SANS, IANS, BruCon, Toorcon and many more.
+#   subject: 
+#   abstract: >-
+        
