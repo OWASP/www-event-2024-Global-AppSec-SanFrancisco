@@ -203,3 +203,8 @@
    url: https://www.bugcrowd.com/
    backgroundSize: 125px
    type: Silver
+ - logo: /assets/images/sponsors/Heeler.png
+   name: Heeler
+   url: https://www.heeler.com/
+   backgroundSize: 125px
+   type: Start-Up
