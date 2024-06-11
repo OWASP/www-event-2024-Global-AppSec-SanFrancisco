@@ -27,7 +27,7 @@
   #    url: /volunteer/
     - title: OWASP Merchandise
       url: https://owasp.org/store
-  #  - title: Hotel Booking 
-  #    url: 
-    - title: Event Code of Conduct
-      url: /event/codeofconduct/
+- title: Hotel Booking 
+  url: https://www.hyatt.com/en-US/group-booking/SFORS/G-OW24/OWASP
+- title: Event Code of Conduct
+  url: /event/codeofconduct/
