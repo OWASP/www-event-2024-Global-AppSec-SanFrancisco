@@ -2,8 +2,8 @@
   url: /
 - title: PROGRAM
   items:
-#    - title: Schedule
-#      url : /schedule/
+    - title: Schedule
+      url : https://owasp2024globalappsecsanfra.sched.com/
 #    - title: Training
 #      url : /trainings/
 #    - title: Event Images
