@@ -1,22 +1,76 @@
 - Type: Training
   Trainers: 
-    - Name: John John
-      Email: john.john@owasp.org
-      Image: /assets/images/trainers/no-person.pg
-      Twitter: twitter_no_at_symbol
+    - Name: Abraham Aranguren
+      Email: admin@7asecurity.com
+      Image: /assets/images/abraham_aranguren.png
+      Twitter: 7ASecurity
       Biography: >-
-          John John has a bio
-      TrainerId: trainer001
-      #-Name: Trainer Dos
-      #Email: tainer.dos@owasp.org
-      #Image: /assets/images/trainers/staff_harold.jpg
-      #Twitter: Trainer_Dos
-      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 25 years of
-      #  experience. He works in the field of cybersecurity, cybersecurity research,
-      #  and threat intelligence.
-      #TrainerId: trainer_dos
-  Title: Defend This
-  URL: 
-  SectionId: sku_IWAHBB
+          After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity, a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop Electron app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of Practical Web Defense, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project - owtf.org, Major degree and Diploma in Computer Science, some certs - CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE-Security, MCSA-Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity. Multiple presentations, pentest reports and recordings can be found at 7asecurity.com/publications
+  TrainerId: trainer001
+  Title: Hacking Android, iOS, and IoT apps by Example - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_HAIIE
   Description: >-
-      Oh yeah, we train defense
+      **In person and online training option available**<br>
+      <br>
+      This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten.<br> 
+      <br>
+      Learn about Android, iOS and IoT app security by improving your mobile security testing kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in mobile app security.<br>
+      <br>
+      Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. As we try to keep both new and advanced students happy, the course is very comprehensive and we have not met any student able to complete all challenges during the class, therefore training continues after the course through our frequently updated training portal, for which you keep lifetime access, as well as unlimited email support. All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.<br>      <br>
+      Get a FREE taste for this training, including access to video recording, slides and vulnerable apps to play with 
+      4 hour workshop - https://7asecurity.com/free-workshop-mobile-practical 
+      <br>
+      Each section starts with a brief introduction to the mobile platform for that section and then continues with a look at static analysis, moves on to dynamic checks finishing off with a nice CTF session to test the skills gained.
+      <br>
+      <li>Day 1 - Focused specifically on Android. We start with understanding applications and then deep dive into static and dynamic analysis of the applications at hand. This section is packed with hands-on exercises and CTF-style challenges.</li>
+      <br>
+      <li>Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.</li>
+      <br>
+      <li>Day 3 - We cover advanced instrumentation techniques using Frida, Objection, radare2, r2frida, RMS and other tools to overcome assessment challenges and take your skills to the next level. This day will give people a wealth of knowledge in dynamic instrumentation capabilities on Android and iOS.</li>
+      <br>
+      See an explanatory video for the course here<br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Re5oqfVkgd4?si=CUzkp4azSvwl2wU6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Type: Training
+  Trainers: 
+    - Name: Fabio Cerullo
+      Email: fcerullo@cycubix.com
+      Image: /assets/images/Fabio Cerullo.jpg
+      Twitter: fcerullo
+      Biography: >-
+          Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics 
+          such as application security, cloud security, and information security. Here is a reference from one attendee of his courses, 
+          <strong>          
+          'Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the 
+          subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by 
+          leveraging his extensive experience in the industry.'
+          </strong>
+          Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA and the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)². 
+  TrainerId: trainer002
+  Title: Web Application Security Essentials - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_WASE
+  Description: >-
+      This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.<br>
+      <br>
+      The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.<br>
+      <br>
+      The topics covered include<br>
+
+      <li>Introduction to Web Application Security</li>
+      <li>Technologies used in Web Applications</li>
+      <li>The Security Tester Toolkit</li>
+      <li>Critical Areas in Web Applications</li>
+      <li>Broken Access Control</li>
+      <li>Cryptographic Failures</li>
+      <li>Injection</li>
+      <li>Insecure Design</li>
+      <li>Security Misconfiguration</li>
+      <li>Vulnerable and Outdated Components</li>
+      <li>Identification and Authentication Failures</li>
+      <li>Software and Data Integrity Failures</li>
+      <li>Security Logging and Monitoring Failures</li>
+      <li>Server Side Request Forgery (SSRF)</li><br>
+      <br>
+      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.<br>
+      <br>
