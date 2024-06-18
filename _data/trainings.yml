@@ -74,3 +74,99 @@
       <br>
       Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.<br>
       <br>
+- Type: Training
+  Trainers: 
+    - Name: Sven Schleier
+      Email: sven@singapurblog.de
+      Image: /assets/images/sven_headshot.png
+      Twitter: bsd_daemon
+      Biography: >-
+          Sven is the Technical Director of WithSecure (formerly known as F-Secure Consulting) in Singapore, specialised in penetration testing and application security and leading the consulting practice.
+
+          Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applications during the whole SDLC to build security in from the start.
+
+          Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers. 
+  TrainerId: trainer003
+  Title: The Mobile Playbook - A guide for iOS and Android App Security - 3 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_WASE
+  Description: >-
+      (Available as hybrid - in Person or online)
+
+      This three-day hands-on course teaches penetration testers and developers how to analyse Android and iOS applications for security vulnerabilities by going through the different phases of testing, including dynamic testing, static analysis, reverse engineering and Software Composition Analysis (SCA), using the OWASP Mobile Application Security Testing Guide (MASTG). The OWASP MASTG is a comprehensive and open source guide to mobile security testing for both iOS and Android, providing a methodology and very detailed technical test cases to ensure completeness and using the latest attack techniques against mobile applications. This course will give you hands-on experience with open source tools and advanced methodologies by guiding you through real-world scenarios.
+      <br>
+      Detailed outline<br>
+      <br>
+      We'll start the first day with an introduction to the OWASP MASVS and MASTG and the latest updates to it and then dive into the Android platform and its security architecture. Students will no longer be required to bring their own Android device, instead each student will be provided with a cloud-based virtualised Android device from Corellium. Topics include<br>
+      <br>
+      <li>Intercepting network traffic from apps written in mobile app frameworks such as Google's Flutter</li>
+      <li>Reverse engineering a Kotlin app and identifying and exploiting a real-world deep link vulnerability through manual source code review</li>
+      <li>Explore the differences and effectiveness of reverse engineering Android apps using Smali patching, Magisk and Dynamic Instrumentation with Frida</li>
+      <li>Frida crash course to get started with dynamic instrumentation on Android apps<li>
+      <li>Bypass different implementations of SSL pinning using Frida<li>
+      <li>Use dynamic instrumentation with Frida to Bypass multiple root detection mechanisms</li>
+      Day 1 will be closed with a Capture the Flag (CTF)<br>
+      <br>
+      On day 2 we wrap up Android and start with iOS and we will use a Github repo to trigger static scanning, SCA and secret scanning on Kotlin and Swift<br>
+      <br>
+      Android<br>
+      <br>
+      <li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)
+      <li>Using Brida (Frida and Burp) to bypass End2End encryption in an Android App</li>
+      <li>Static Scanning of Kotlin source code, identifying vulnerabilities and eliminating false positives</li>
+      <li>Scanning for secrets in an APK</li><br>
+      <br>
+      iOS<br>
+      <br>
+      <li>Introduction into iOS Security fundamentals</li>
+- Scanning for secrets in a Swift repository and identifying ways to handle them securely.
+- Software Composition Analysis (SCA) for iOS - Scanning 3rd party libraries and SDKs in mobile package managers for known vulnerabilities and mitigation strategies.
+- Statically scanning Swift source code, identifying vulnerabilities and eliminating false positives.
+- Demonstration on how to test watchOS apps and it's limitations
+
+
+Day 3 focuses on iOS. We will begin the day by creating an iOS test environment using Corellium and dive into several topics, including:
+
+- Intercepting network traffic of an iOS App in various scenarios, including intercepting traffic that is not HTTP
+- Examining stateless authentication (JWT) in a mobile app
+- A Frida crash course to get started with dynamic instrumentation for iOS applications
+- Analyse the storage of an iOS app and understand the various options on how (Realm databases etc.) and where files can be stored.
+- Testing methodology with a non-jailbroken device by repackaging an IPA with the Frida gadget
+- Using Frida to bypass runtime instrumentation of iOS applications
+- Anti-Jailbreaking Mechanisms
+- Frida's detection mechanism
+
+We'll wrap up the final day with a "Mobile Hacking Scavenger Hunt." This unique CTF will feature not just mobile apps but also physical art objects, which we refer to as "hackable artworks".
+
+Whether you are a beginner who wants to learn mobile app testing from the ground up, or an experienced pentester or developer who wants to improve your existing skills to perform more advanced attack techniques, or just for fun, this training will help you achieve your goals.
+
+The course consists of many different labs developed by the instructor and is approximately 65% hands-on and 35% lecture.
+
+Upon successful completion of this course, students will have a better understanding of how to test for vulnerabilities in mobile applications, how to suggest the right mitigation techniques to developers, and how to perform tests consistently.
+
+
+### What students should bring
+
+The following requirements must be met by students in order to be able to follow all exercises and participate fully<br>
+
+- Laptop (Windows/Linux/macOS) with at least 8GB of RAM and 40GB of free disk space.
+- Full administrative access in case of problems with the laptop environment (e.g. ability to disable VPN or AV/EDR)
+- Virtualisation software (e.g. VMware, VirtualBox, UTM); a virtual machine will be provided for X86 and ARM architecture (for M1/M2/M3 MacBooks) with all tools required for the training.
+- Ideally a tablet to have a second screen for the practical lab slides when doing the hands-on sessions.
+- Github account is needed (free account is sufficient) to fork a repository
+
+An iOS and Android device is NOT required as an emulated instance is provided for each student hosted at Corellium. This is a cloud-based environment that allows each student access to a jailbroken iOS device and a rooted Android device during the training.
+
+### What students will receive
+
+- Slide decks for the iOS and Android training and all videos for all demonstrations shared in class.
+- All vulnerable apps used during the training, either as APK or IPA.
+- Detailed write-ups for all labs so you can review them at your own pace after the course.
+- Dedicated Slack channel used to help students prepare before the course, communicate during the course and stay in touch after the course for any questions.
+- Certificate of completion.
+
+## What prerequisites should students have before attending this training?
+
+- This course is for Beginners and Intermediate
+- Basic understanding of mobile apps
+- Able to use Linux command line
