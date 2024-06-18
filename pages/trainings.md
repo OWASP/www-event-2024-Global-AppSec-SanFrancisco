@@ -17,9 +17,9 @@ permalink: /trainings/
 All training will be held at the Hyatt Regency San Francisco 5 Embarcadero Center
 San Francisco, California 94111 United States. 
 <br><br>
-3-day training courses will be held November 14-16<br>
-2-day training courses will be held November 15-16<br>
-1-day training courses will be held on November 16.
+3-day training courses will be held September 23-25<br>
+2-day training courses will be held September 24-25<br>
+1-day training courses will be held on September 25.
 
 <section class='training'>
 {% if site.data.trainings.size > 0 %}
