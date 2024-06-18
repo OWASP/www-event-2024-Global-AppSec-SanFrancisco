@@ -4,8 +4,8 @@
   items:
      - title: Schedule
        url : https://owasp2024globalappsecsanfra.sched.com/
-#    - title: Training
-#      url : /trainings/
+     - title: Training
+       url : /trainings/
 #    - title: Event Images
 #      url : /media/
      - title: Call for Trainers - CLOSED
