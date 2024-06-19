@@ -208,3 +208,25 @@
    url: https://www.heeler.com/
    backgroundSize: 125px
    type: Start-Up
+ - logo: /assets/images/sponsors/Corgea.png
+   name: Corgea
+   url: https://corgea.com/
+   backgroundSize: 125px
+   type: Start-Up
+ - logo: /assets/images/sponsors/FiniteState.jpeg
+   name: Finite State
+   url: https://finitestate.io/
+   backgroundSize: 125px
+   type: Conference Lunch Sponsor
+ - logo: /assets/images/sponsors/Impart.svg
+   name: Impart Security
+   url: https://www.impart.security/
+   backgroundSize: 125px
+   type: Start-Up
+ - logo: /assets/images/sponsors/Pixee.png
+   name: Pixee
+   url: https://www.pixee.ai/
+   backgroundSize: 125px
+   type: Start-Up
+   
+   
