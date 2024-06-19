@@ -228,5 +228,31 @@
    url: https://www.pixee.ai/
    backgroundSize: 125px
    type: Start-Up
+ - logo: /assets/images/sponsors/Qwiet_Logo.jpg
+   name: Qwiet.Ai
+   url: https://qwiet.ai/
+   backgroundSize: 125px
+   type: Start-Up
+ - logo: /assets/images/sponsors/ROOT.png
+   name: Root
+   url: https://www.root.io/
+   backgroundSize: 125px
+   type: Start-Up
+ - logo: /assets/images/sponsors/securityjourney_logo_color_horz.png
+   name: Security Journey
+   url: https://www.securityjourney.com/
+   backgroundSize: 125px
+   type: Diamond
+ - logo: /assets/images/sponsors/Snyk.png
+   name: Snyk
+   url: https://snyk.io/
+   backgroundSize: 125px
+   type: Women in AppSec Sponsor and Conference Breakfast Sponsor
+ - logo: /assets/images/sponsors/Zimperium.png
+   name: Zimperium
+   url: https://www.zimperium.com/
+   backgroundSize: 125px
+   type: OWASP Leaders Meeting/Open Bar Sponsor
+   
    
    
