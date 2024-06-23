@@ -207,3 +207,71 @@
       <br>As part of this training, you will be asked to create and submit your own threat model, on which you will get individual feedback.<br>
       <br>
       <br>All participants get our Threat Modeling Playbook to improve you threat modeling practice, one-year access to our online threat modeling learning platform, and one-hour personal coaching to refine your threat modeling.<br>
+- Type: Training
+  Trainers: 
+    - Name: Abhay Bhargav
+      Email: abhaybhargav@gmail.com
+      Image: /assets/images/abhay_headshot_background.png
+      Twitter: abhaybhargav
+      Biography: >-
+          Abhay Bhargav is the Founder of the Chief Research Officer of AppSecEngineer, an elite, hands-on online training platform and we45 a specialized AppSec Company.
+          Abhay started his career as a breaker of apps, in pentesting and red-teaming, but today is more involved in scaling AppSec with Cloud-Native Security and DevSecOps
+          He has created some pioneering works in the area of DevSecOps and AppSec Automation, including the world’s first hands-on training program on DevSecOps, focused on Application Security Automation. In addition to this, Abhay is active in his research of new technologies and their impact on Application Security, specifically Cloud-Native Security. In addition, Abhay has contributed to pioneering work in the Vulnerability Management space, being the architect of a leading Vulnerability Management and Correlation Product, Orchestron. Abhay is also committed to Open-Source and has developed the first-ever Threat Modeling solution at the crossroads of Agile and DevSecOps, called ThreatPlaybook.
+          Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His training programs have been sold-out events at conferences like AppSecUSA, EU, AppSecDay Melbourne, CodeBlue (Japan), BlackHat USA, SHACK and so on. He's authored two international publications on Java Security and PCI Compliance as well. 
+  TrainerId: trainer005
+  Title: Attacking and Defending - AWS, Azure and GCP Applications
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_WASE
+  Description: >-
+      Multicloud environments have grown in prevalence and significance. According to a study by VMWare[1] in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. By some estimates (Hashicorp[2]), nearly 90% of organizations are multicloud.
+
+      Multicloud environments, consequently, lead to a variety of different application deployments and environments. Applications ranging from traditional VM deployed apps, to containerized apps on Kubernetes or other managed Container Orchestration apps to FaaS (Functions-as-a-Service) apps are deployed on the Big Three cloud providers (AWS, Azure, and GCP).
+
+      Just as application deployment patterns are dissimilar, the security of applications in these cloud environments is different as well. Attack patterns against these applications are also different, as a result of this. Companies and their security personnel are grappling with this issue, not only at scale but with a severe shortage of skills to boot.
+
+      This training has been designed with our highly renowned approach of ADD (Attack-Detect-Defend). This is where we use stories and get students to work through intricately designed technical scenarios. As part of each story, the student deploys the app on the relevant cloud environment using Infrastructure-as-Code tools like Terraform, CDK, Bicep, and others. The application(s), along with the stack (the cloud resources and configuration) is vulnerable in many small and serious ways. For the “Attack” part of the story, the students deploy the stack. Once the application is deployed, the students explore a compromise of the application. The students leverage vulnerabilities and execute carefully planned attack sequences that are designed to escalate privileges into the specific cloud environment and start to perform post-exploit activities ranging from data exfiltration to resource manipulation. This completes one part of the story where we go from deploying the application to attacking the application and compromising the underlying cloud infrastructure. This is the section of each story, where participants will do a CTF-style session. Here they will spend time identifying and attacking these infrastructures with multi-step attacks, where they perform extensive examples of lateral movement using techniques highlighted in the MITRE ATT&CK Framework, popular bug-bounties, and our own experiences with attacking and auditing cloud infrastructure.
+
+      For the “Detect” part of the story, we look at scenarios that involve Incident Response, Detection Engineering on the cloud, with these various Cloud Providers. In this part of the story, we have students deploy an identical (still vulnerable stack). However, this time, they deploy stacks with detection services enabled and configured. These detection services include, but are not limited to
+      <li>Ingesting and harnessing Control-Plane Logs of the Cloud Provider/Service</li>
+      <li>Leveraging Threat Intelligence Services provided by the Cloud Provider</li>
+      <li>Leveraging ETL Services and Cloud Storage to build Detection Queries and parameters</li>
+      <li>And more</li>
+      
+      The idea here is to get the student to perform the same attack sequences against the Cloud environment. Except for this time, deployed detection mechanisms identify these incursions and identify the attack attempts.
+
+      Finally, for each story, we have a “Defend” section. This is a section that comes full circle. We deploy a much more secure application to the particular cloud environment. In some cases, this would mean that even if the application continues to be vulnerable to the same issues, the underlying cloud configuration would be much more secure, hence negating the possibility of attack.
+
+      In this part of each story, we’d explore a combination of several security mechanisms that are natively provided by the cloud provider.
+
+      The security implementations we’ll be exploring across the stories are including, but are not limited to
+      <li>AWS Network Security Controls => VPC, Advanced VPC Controls (Mirroring, Flow Logs, etc), Security Groups, etc</li>
+      <li>AWS IAM and Advanced IAM deployment, policies, and Policy Management</li>
+      <li>AWS Security Services => Security Hub, GuardDuty, etc</li>
+      <li>AWS Host Security Services => IMDSv2, Host level security monitoring using OSQuery, etc</li>
+      <li>Proactive Detection and Alerting => Cloudwatch, Cloudtrail, Alerts, Leveraging Lambda for security Event triggers, etc.</li>
+      <li>Security Analytics with Cloudwatch, Athena, etc</li>
+      <li>Federated Access Control and Management with Cognito and Cognito implementation deep-dives</li>
+      <li>Container-native security protections => ECR and Fargate</li>
+      <li>Encryption and Key Management Practices with KMS, Secrets Manager</li>
+      <li>GCP Network Security Controls => VPC, Firewall, and NAT Gateways</li>
+      <li>GCP IAM and advanced IAM with conditions and IAM policy with Audit logs</li>
+      <li>Access control management for the Application with GCP Identity Aware Proxy (IAP)</li>
+      <li>GCP Service account and least privilege in the service accounts</li>
+      <li>GCP Logging and monitoring => VPC logging, Firewall Logging, and Audit Logging</li>
+      <li>GCP storage and Security Controls for Storage => Fine-Grained Access, Uniform Access, and Public prevention</li>
+      <li>GCP Security Command Center for Security Detection and Vulnerability Monitoring</li>
+      <li>Azure network Security controls => Virtual network, Network Security Groups, Azure firewall</li>
+      <li>Azure IAM and Advanced IAM deployment, policies, and Policy Management</li>
+      <li>Azure Security Services => Microsoft sentinel, Defender for cloud service, advanced threat protection, Azure security center e.t.c</li>
+      <li>Security logging and monitoring with Azure monitor logs, Azure network watcher, and security orchestration automated incident response through Microsoft sentinel</li>
+      <li>Leveraging multiple encryption techniques through Azure key vault</li>
+
+      The scope of this training encompasses the Big Three Cloud Providers (AWS, Azure, and GCP). In addition, since Kubernetes is a cross-cutting concern across all three cloud environments, there would be relevant Kubernetes specific stories showcased in the training as well.
+
+      Each story is a simulation of a real-world application and use-case(s). We’d leveraging everything from VMs on AWS, GCP, and Azure to Managed Container services (ECS, ACI, Cloud Run), to managed Kubernetes (EKS, AKS, GKE) to FaaS (Lambda, Azure Function Apps, Google Cloud Functions, Step Functions, Logic Apps, etc). The objective is to provide the students with a comprehensive viewpoint of applications, with a view on diverse deployment environments. This enables them to gain a greater understanding of the intricacies of offensive, defensive, and detection engineering for various types of applications and cloud environments.
+
+      We look to cover approximately 2 stories every day of the training. To keep the flow consistent, we’d focus on one cloud provider per day, with a brief introductory session on the cloud provider and some critical areas that the audience should be aware of before they go deep into the subject matter. The stories themselves are a set of micro-labs, where the trainers would explain and demonstrate the concept with hands-on labs that the participants are working through. The class is meant to be an extensively hands-on class, with the theory intermeshed into the hands-on labs to support it and give the students a detailed understanding of the subject matter.
+
+      To make things easier for the students, we provide hands-on lab environments on the cloud and access entirely on the browser. Free of VPNs and other messy VM setups. In addition, our cloud sandboxes are set up in such a way that the student does not even have to bring cloud accounts on AWS, Azure, and GCP. They use our cloud sandbox environments to do the hands-on labs in this class with no fear of their account being compromised, or them having to pay financial overages.
+
+      This class is an intense, deep-dive experience in Multi-Cloud Application Security. We’d like participants to explore practical implementations of full-fledged environments, rather than have a surface-level understanding of attack and defense in AWS, Azure, and GCP.
