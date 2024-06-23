@@ -168,3 +168,42 @@
       <li>This course is for Beginners and Intermediate</li>
       <li>Basic understanding of mobile apps</li>
       <li>able to use Linux command line</li><br>
+      <br>
+- Type: Training
+  Trainers: 
+    - Name: Sebastien Deleersnyder
+      Email: seba@owasp.org
+      Image: /assets/images/sebastien_deleersnyder__portrait.png
+      Twitter: sebadele
+      Biography: >-
+          Sebastien Deleersnyder (Seba) is the CTO, co-founder of Toreon and COO of Data Protection Institute. With a strong background in development and extensive experience in cybersecurity, Seba has trained numerous developers on how to create more secure software. He is also the founder of the Belgian OWASP chapter and a former member of the OWASP Foundation Board. Through his work leading OWASP projects like OWASP SAMM, Seba has made a significant impact in improving the overall security of the world. Currently, he is focused on adapting application security models to the rapidly changing landscape of DevOps and promoting the importance of threat modeling to a broader audience.
+  TrainerId: trainer004
+  Title: Agile Whiteboard Hacking – aka Hands-on Threat Modeling
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_WASE
+  Description: >-
+      Based on the updated Black Hat edition 2024 training, you will be challenged with hands-on threat modeling exercises based on real-world projects. You will get insight into our practical industry experience, helping you to become a Threat Modeling Practitioner. We included an exercise on MITRE ATT&CK, and we focus on embedding threat modeling in Agile and DevOps practices. And we introduce a new challenge on threat modeling a Machine Learning-Powered Chatbot.<br>
+      <br>
+      We levelled up the threat modeling war game. Engaged in CTF-style challenges, your team will battle for control over an offshore wind turbine park.<br>
+      <br>
+      The level of this training is Beginner/Intermediate. Participants who are new to threat modeling are advised to follow our self-paced Threat Modeling Introduction training (which is about 2 hours and is included in this training.<br>
+      <br>
+      As highly skilled professionals with years of experience under our belts, we're intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-world projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.<br>
+      <br>
+      Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling<br>
+      <br>
+      <li>Diagram techniques applied on a travel booking service</li>
+      <li>Threat model a cloud-based update service for an IoT kiosk</li>
+      <li>Create an attack tree against a nuclear research facility</li>
+      <li>Create a SOC Risk Based Alerting system with MITRE ATT&CK</li>
+      <li>Mitigate threats in a payment service build with microservices and S3 buckets</li>
+      <li>Threat modeling a Machine Learning-Powered Chatbot</li>
+      <li>Apply the OWASP Threat Modeling Playbook on agile development</li>
+      <li>Threat modeling the CI/CD pipeline</li>
+      <li>Battle for control over "Zwarte Wind", an offshore wind turbine park</li><br>
+      <br>
+      <br>After each hands-on exercise, the results are discussed, and students receive a documented solution.<br>
+      <br>
+      <br>As part of this training, you will be asked to create and submit your own threat model, on which you will get individual feedback.<br>
+      <br>
+      <br>All participants get our Threat Modeling Playbook to improve you threat modeling practice, one-year access to our online threat modeling learning platform, and one-hour personal coaching to refine your threat modeling.<br>
