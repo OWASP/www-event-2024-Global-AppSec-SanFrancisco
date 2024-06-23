@@ -178,7 +178,7 @@
       Biography: >-
           Sebastien Deleersnyder (Seba) is the CTO, co-founder of Toreon and COO of Data Protection Institute. With a strong background in development and extensive experience in cybersecurity, Seba has trained numerous developers on how to create more secure software. He is also the founder of the Belgian OWASP chapter and a former member of the OWASP Foundation Board. Through his work leading OWASP projects like OWASP SAMM, Seba has made a significant impact in improving the overall security of the world. Currently, he is focused on adapting application security models to the rapidly changing landscape of DevOps and promoting the importance of threat modeling to a broader audience.
   TrainerId: trainer004
-  Title: Agile Whiteboard Hacking – aka Hands-on Threat Modeling
+  Title: Agile Whiteboard Hacking – aka Hands-on Threat Modeling - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_WASE
   Description: >-
@@ -219,7 +219,7 @@
           He has created some pioneering works in the area of DevSecOps and AppSec Automation, including the world’s first hands-on training program on DevSecOps, focused on Application Security Automation. In addition to this, Abhay is active in his research of new technologies and their impact on Application Security, specifically Cloud-Native Security. In addition, Abhay has contributed to pioneering work in the Vulnerability Management space, being the architect of a leading Vulnerability Management and Correlation Product, Orchestron. Abhay is also committed to Open-Source and has developed the first-ever Threat Modeling solution at the crossroads of Agile and DevSecOps, called ThreatPlaybook.
           Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His training programs have been sold-out events at conferences like AppSecUSA, EU, AppSecDay Melbourne, CodeBlue (Japan), BlackHat USA, SHACK and so on. He's authored two international publications on Java Security and PCI Compliance as well. 
   TrainerId: trainer005
-  Title: Attacking and Defending - AWS, Azure and GCP Applications
+  Title: Attacking and Defending - AWS, Azure and GCP Applications - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_WASE
   Description: >-
@@ -288,7 +288,7 @@
 
           His experience extends even beyond DevSecOps, he designs and develops Web Application Security tools, performs vulnerability management and orchestration, and consults on security assessments for major companies. He’s proficient in languages like Python, Java, Javascript, Angular, and more. He regularly trains major companies and team members on application security automation, DevSecOps, and AppSec Essentials as well.
   TrainerId: trainer006
-  Title: Attacking the Application Supply Chain
+  Title: Attacking the Application Supply Chain - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
