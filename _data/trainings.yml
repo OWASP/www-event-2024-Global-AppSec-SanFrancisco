@@ -102,8 +102,8 @@
       <ul><li>Intercepting network traffic from apps written in mobile app frameworks such as Google's Flutter</li>
       <li>Reverse engineering a Kotlin app and identifying and exploiting a real-world deep link vulnerability through manual source code review</li>
       <li>Explore the differences and effectiveness of reverse engineering Android apps using Smali patching, Magisk and Dynamic Instrumentation with Frida</li>
-      <li>Frida crash course to get started with dynamic instrumentation on Android apps<li>
-      <li>Bypass different implementations of SSL pinning using Frida<li>
+      <li>Frida crash course to get started with dynamic instrumentation on Android apps</li>
+      <li>Bypass different implementations of SSL pinning using Frida</li>
       <li>Use dynamic instrumentation with Frida to Bypass multiple root detection mechanisms</li></ul>
       <br>
       Day 1 will be closed with a Capture the Flag (CTF)<br>
