@@ -105,6 +105,7 @@
       <li>Frida crash course to get started with dynamic instrumentation on Android apps<li>
       <li>Bypass different implementations of SSL pinning using Frida<li>
       <li>Use dynamic instrumentation with Frida to Bypass multiple root detection mechanisms</li></ul>
+      <br>
       Day 1 will be closed with a Capture the Flag (CTF)<br>
       <br>
       On day 2 we wrap up Android and start with iOS and we will use a Github repo to trigger static scanning, SCA and secret scanning on Kotlin and Swift<br>
@@ -114,7 +115,7 @@
       <ul><li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)
       <li>Using Brida (Frida and Burp) to bypass End2End encryption in an Android App</li>
       <li>Static Scanning of Kotlin source code, identifying vulnerabilities and eliminating false positives</li>
-      <li>Scanning for secrets in an APK</li></ul><br>
+      <li>Scanning for secrets in an APK</li></ul>
       <br>
       iOS<br>
       <br>
@@ -133,7 +134,7 @@
       <li>Testing methodology with a non-jailbroken device by repackaging an IPA with the Frida gadget</li>
       <li>Using Frida to bypass runtime instrumentation of iOS applications</li>
       <li>Anti-Jailbreaking Mechanisms</li>
-      <li>Frida's detection mechanism</li></ul><br>
+      <li>Frida's detection mechanism</li></ul>
       <br>
       We'll wrap up the final day with a "Mobile Hacking Scavenger Hunt." This unique CTF will feature not just mobile apps but also physical art objects, which we refer to as "hackable artworks".<br>
       <br>
@@ -151,7 +152,7 @@
       <li>Full administrative access in case of problems with the laptop environment (e.g. ability to disable VPN or AV/EDR)</li>
       <li>Virtualisation software (e.g. VMware, VirtualBox, UTM); a virtual machine will be provided for X86 and ARM architecture (for M1/M2/M3 MacBooks) with all tools required for the training</li>
       <li>Ideally a tablet to have a second screen for the practical lab slides when doing the hands-on sessions</li>
-      <li>Github account is needed (free account is sufficient) to fork a repository</li></ul><br>
+      <li>Github account is needed (free account is sufficient) to fork a repository</li></ul>
       <br>
       An iOS and Android device is NOT required as an emulated instance is provided for each student hosted at Corellium. This is a cloud-based environment that allows each student access to a jailbroken iOS device and a rooted Android device during the training.<br>
       <br>
@@ -161,13 +162,13 @@
       <li>All vulnerable apps used during the training, either as APK or IPA</li>
       <li>Detailed write-ups for all labs so you can review them at your own pace after the course</li>
       <li>Dedicated Slack channel used to help students prepare before the course, communicate during the course and stay in touch after the course for any questions</li>
-      <li>Certificate of completion</li></ul><br>
+      <li>Certificate of completion</li></ul>
       <br>
       What prerequisites should students have before attending this training?<br>
       <br>
       <ul><li>This course is for Beginners and Intermediate</li>
       <li>Basic understanding of mobile apps</li>
-      <li>able to use Linux command line</li></ul><br>
+      <li>able to use Linux command line</li></ul>
       <br>
 - Type: Training
   Trainers: 
@@ -200,13 +201,13 @@
       <li>Threat modeling a Machine Learning-Powered Chatbot</li>
       <li>Apply the OWASP Threat Modeling Playbook on agile development</li>
       <li>Threat modeling the CI/CD pipeline</li>
-      <li>Battle for control over "Zwarte Wind", an offshore wind turbine park</li></ul><br>
+      <li>Battle for control over "Zwarte Wind", an offshore wind turbine park</li></ul>
       <br>
-      <br>After each hands-on exercise, the results are discussed, and students receive a documented solution.<br>
+      After each hands-on exercise, the results are discussed, and students receive a documented solution.<br>
       <br>
-      <br>As part of this training, you will be asked to create and submit your own threat model, on which you will get individual feedback.<br>
+      As part of this training, you will be asked to create and submit your own threat model, on which you will get individual feedback.<br>
       <br>
-      <br>All participants get our Threat Modeling Playbook to improve you threat modeling practice, one-year access to our online threat modeling learning platform, and one-hour personal coaching to refine your threat modeling.<br>
+      All participants get our Threat Modeling Playbook to improve you threat modeling practice, one-year access to our online threat modeling learning platform, and one-hour personal coaching to refine your threat modeling.<br>
 - Type: Training
   Trainers: 
     - Name: Abhay Bhargav
