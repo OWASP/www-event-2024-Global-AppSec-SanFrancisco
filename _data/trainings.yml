@@ -99,41 +99,41 @@
       <br>
       We'll start the first day with an introduction to the OWASP MASVS and MASTG and the latest updates to it and then dive into the Android platform and its security architecture. Students will no longer be required to bring their own Android device, instead each student will be provided with a cloud-based virtualised Android device from Corellium. Topics include<br>
       <br>
-      <li>Intercepting network traffic from apps written in mobile app frameworks such as Google's Flutter</li>
+      <ul><li>Intercepting network traffic from apps written in mobile app frameworks such as Google's Flutter</li>
       <li>Reverse engineering a Kotlin app and identifying and exploiting a real-world deep link vulnerability through manual source code review</li>
       <li>Explore the differences and effectiveness of reverse engineering Android apps using Smali patching, Magisk and Dynamic Instrumentation with Frida</li>
       <li>Frida crash course to get started with dynamic instrumentation on Android apps<li>
       <li>Bypass different implementations of SSL pinning using Frida<li>
-      <li>Use dynamic instrumentation with Frida to Bypass multiple root detection mechanisms</li>
+      <li>Use dynamic instrumentation with Frida to Bypass multiple root detection mechanisms</li></ul>
       Day 1 will be closed with a Capture the Flag (CTF)<br>
       <br>
       On day 2 we wrap up Android and start with iOS and we will use a Github repo to trigger static scanning, SCA and secret scanning on Kotlin and Swift<br>
       <br>
       Android<br>
       <br>
-      <li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)
+      <ul><li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)
       <li>Using Brida (Frida and Burp) to bypass End2End encryption in an Android App</li>
       <li>Static Scanning of Kotlin source code, identifying vulnerabilities and eliminating false positives</li>
-      <li>Scanning for secrets in an APK</li><br>
+      <li>Scanning for secrets in an APK</li></ul><br>
       <br>
       iOS<br>
       <br>
-      <li>Introduction into iOS Security fundamentals</li>
+      <ul><li>Introduction into iOS Security fundamentals</li>
       <li>Scanning for secrets in a Swift repository and identifying ways to handle them securely</li>
       <li>Software Composition Analysis (SCA) for iOS - Scanning 3rd party libraries and SDKs in mobile package managers for known vulnerabilities and mitigation strategies</li>
       <li>Statically scanning Swift source code, identifying vulnerabilities and eliminating false positives</li>
-      <li>Demonstration on how to test watchOS apps and it's limitations</li>
+      <li>Demonstration on how to test watchOS apps and it's limitations</li></ul>
       <br>
       Day 3 focuses on iOS. We will begin the day by creating an iOS test environment using Corellium and dive into several topics, including<br>
       <br>
-      <li>Intercepting network traffic of an iOS App in various scenarios, including intercepting traffic that is not HTTP</li>
+      <ul><li>Intercepting network traffic of an iOS App in various scenarios, including intercepting traffic that is not HTTP</li>
       <li>Examining stateless authentication (JWT) in a mobile app</li>
       <li>A Frida crash course to get started with dynamic instrumentation for iOS applications</li>
       <li>Analyse the storage of an iOS app and understand the various options on how (Realm databases etc.) and where files can be stored</li>
       <li>Testing methodology with a non-jailbroken device by repackaging an IPA with the Frida gadget</li>
       <li>Using Frida to bypass runtime instrumentation of iOS applications</li>
       <li>Anti-Jailbreaking Mechanisms</li>
-      <li>Frida's detection mechanism</li><br>
+      <li>Frida's detection mechanism</li></ul><br>
       <br>
       We'll wrap up the final day with a "Mobile Hacking Scavenger Hunt." This unique CTF will feature not just mobile apps but also physical art objects, which we refer to as "hackable artworks".<br>
       <br>
@@ -147,27 +147,27 @@
       <br>
       The following requirements must be met by students in order to be able to follow all exercises and participate fully<br>
       <br>
-      <li>Laptop (Windows/Linux/macOS) with at least 8GB of RAM and 40GB of free disk space</li>
+      <ul><li>Laptop (Windows/Linux/macOS) with at least 8GB of RAM and 40GB of free disk space</li>
       <li>Full administrative access in case of problems with the laptop environment (e.g. ability to disable VPN or AV/EDR)</li>
       <li>Virtualisation software (e.g. VMware, VirtualBox, UTM); a virtual machine will be provided for X86 and ARM architecture (for M1/M2/M3 MacBooks) with all tools required for the training</li>
       <li>Ideally a tablet to have a second screen for the practical lab slides when doing the hands-on sessions</li>
-      <li>Github account is needed (free account is sufficient) to fork a repository</li><br>
+      <li>Github account is needed (free account is sufficient) to fork a repository</li></ul><br>
       <br>
       An iOS and Android device is NOT required as an emulated instance is provided for each student hosted at Corellium. This is a cloud-based environment that allows each student access to a jailbroken iOS device and a rooted Android device during the training.<br>
       <br>
       What students will receive<br>
       <br>
-      <li>Slide decks for the iOS and Android training and all videos for all demonstrations shared in class</li>
+      <ul><li>Slide decks for the iOS and Android training and all videos for all demonstrations shared in class</li>
       <li>All vulnerable apps used during the training, either as APK or IPA</li>
       <li>Detailed write-ups for all labs so you can review them at your own pace after the course</li>
       <li>Dedicated Slack channel used to help students prepare before the course, communicate during the course and stay in touch after the course for any questions</li>
-      <li>Certificate of completion</li><br>
+      <li>Certificate of completion</li></ul><br>
       <br>
       What prerequisites should students have before attending this training?<br>
       <br>
-      <li>This course is for Beginners and Intermediate</li>
+      <ul><li>This course is for Beginners and Intermediate</li>
       <li>Basic understanding of mobile apps</li>
-      <li>able to use Linux command line</li><br>
+      <li>able to use Linux command line</li></ul><br>
       <br>
 - Type: Training
   Trainers: 
@@ -192,7 +192,7 @@
       <br>
       Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling<br>
       <br>
-      <li>Diagram techniques applied on a travel booking service</li>
+      <ul><li>Diagram techniques applied on a travel booking service</li>
       <li>Threat model a cloud-based update service for an IoT kiosk</li>
       <li>Create an attack tree against a nuclear research facility</li>
       <li>Create a SOC Risk Based Alerting system with MITRE ATT&CK</li>
@@ -200,7 +200,7 @@
       <li>Threat modeling a Machine Learning-Powered Chatbot</li>
       <li>Apply the OWASP Threat Modeling Playbook on agile development</li>
       <li>Threat modeling the CI/CD pipeline</li>
-      <li>Battle for control over "Zwarte Wind", an offshore wind turbine park</li><br>
+      <li>Battle for control over "Zwarte Wind", an offshore wind turbine park</li></ul><br>
       <br>
       <br>After each hands-on exercise, the results are discussed, and students receive a documented solution.<br>
       <br>
@@ -232,10 +232,10 @@
       This training has been designed with our highly renowned approach of ADD (Attack-Detect-Defend). This is where we use stories and get students to work through intricately designed technical scenarios. As part of each story, the student deploys the app on the relevant cloud environment using Infrastructure-as-Code tools like Terraform, CDK, Bicep, and others. The application(s), along with the stack (the cloud resources and configuration) is vulnerable in many small and serious ways. For the “Attack” part of the story, the students deploy the stack. Once the application is deployed, the students explore a compromise of the application. The students leverage vulnerabilities and execute carefully planned attack sequences that are designed to escalate privileges into the specific cloud environment and start to perform post-exploit activities ranging from data exfiltration to resource manipulation. This completes one part of the story where we go from deploying the application to attacking the application and compromising the underlying cloud infrastructure. This is the section of each story, where participants will do a CTF-style session. Here they will spend time identifying and attacking these infrastructures with multi-step attacks, where they perform extensive examples of lateral movement using techniques highlighted in the MITRE ATT&CK Framework, popular bug-bounties, and our own experiences with attacking and auditing cloud infrastructure.
 
       For the “Detect” part of the story, we look at scenarios that involve Incident Response, Detection Engineering on the cloud, with these various Cloud Providers. In this part of the story, we have students deploy an identical (still vulnerable stack). However, this time, they deploy stacks with detection services enabled and configured. These detection services include, but are not limited to
-      <li>Ingesting and harnessing Control-Plane Logs of the Cloud Provider/Service</li>
+      <ul><li>Ingesting and harnessing Control-Plane Logs of the Cloud Provider/Service</li>
       <li>Leveraging Threat Intelligence Services provided by the Cloud Provider</li>
       <li>Leveraging ETL Services and Cloud Storage to build Detection Queries and parameters</li>
-      <li>And more</li>
+      <li>And more</li></ul>
       
       The idea here is to get the student to perform the same attack sequences against the Cloud environment. Except for this time, deployed detection mechanisms identify these incursions and identify the attack attempts.
 
@@ -244,7 +244,7 @@
       In this part of each story, we’d explore a combination of several security mechanisms that are natively provided by the cloud provider.
 
       The security implementations we’ll be exploring across the stories are including, but are not limited to
-      <li>AWS Network Security Controls => VPC, Advanced VPC Controls (Mirroring, Flow Logs, etc), Security Groups, etc</li>
+      <ul><li>AWS Network Security Controls => VPC, Advanced VPC Controls (Mirroring, Flow Logs, etc), Security Groups, etc</li>
       <li>AWS IAM and Advanced IAM deployment, policies, and Policy Management</li>
       <li>AWS Security Services => Security Hub, GuardDuty, etc</li>
       <li>AWS Host Security Services => IMDSv2, Host level security monitoring using OSQuery, etc</li>
@@ -264,7 +264,7 @@
       <li>Azure IAM and Advanced IAM deployment, policies, and Policy Management</li>
       <li>Azure Security Services => Microsoft sentinel, Defender for cloud service, advanced threat protection, Azure security center e.t.c</li>
       <li>Security logging and monitoring with Azure monitor logs, Azure network watcher, and security orchestration automated incident response through Microsoft sentinel</li>
-      <li>Leveraging multiple encryption techniques through Azure key vault</li>
+      <li>Leveraging multiple encryption techniques through Azure key vault</li></ul>
 
       The scope of this training encompasses the Big Three Cloud Providers (AWS, Azure, and GCP). In addition, since Kubernetes is a cross-cutting concern across all three cloud environments, there would be relevant Kubernetes specific stories showcased in the training as well.
 
