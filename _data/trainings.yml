@@ -70,7 +70,7 @@
       <li>Identification and Authentication Failures</li>
       <li>Software and Data Integrity Failures</li>
       <li>Security Logging and Monitoring Failures</li>
-      <li>Server Side Request Forgery (SSRF)</li></ul><br>
+      <li>Server Side Request Forgery (SSRF)</li></ul>
       <br>
       Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.<br>
       <br>
