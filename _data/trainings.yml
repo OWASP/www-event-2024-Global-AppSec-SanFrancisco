@@ -41,7 +41,7 @@
           Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics 
           such as application security, cloud security, and information security. Here is a reference from one attendee of his courses, 
           <strong>          
-          'Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the 
+          Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the 
           subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by 
           leveraging his extensive experience in the industry.'
           </strong>
@@ -57,7 +57,7 @@
       <br>
       The topics covered include<br>
 
-      <li>Introduction to Web Application Security</li>
+      <ul><li>Introduction to Web Application Security</li>
       <li>Technologies used in Web Applications</li>
       <li>The Security Tester Toolkit</li>
       <li>Critical Areas in Web Applications</li>
@@ -70,7 +70,7 @@
       <li>Identification and Authentication Failures</li>
       <li>Software and Data Integrity Failures</li>
       <li>Security Logging and Monitoring Failures</li>
-      <li>Server Side Request Forgery (SSRF)</li><br>
+      <li>Server Side Request Forgery (SSRF)</li></ul><br>
       <br>
       Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.<br>
       <br>
