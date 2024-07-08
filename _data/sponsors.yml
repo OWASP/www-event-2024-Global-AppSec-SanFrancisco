@@ -258,5 +258,10 @@
    url: https://www.nullify.ai/
    backgroundSize: 125px
    type: Start-Up
+ - logo: /assets/images/sponsors/Zenity-Logo_1536x1000.jpg
+   name: Zenity
+   url: https://www.zenity.io/
+   backgroundSize: 125px
+   type: Start-Up
    
    
