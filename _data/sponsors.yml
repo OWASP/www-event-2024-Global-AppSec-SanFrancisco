@@ -247,7 +247,16 @@
    name: Zimperium
    url: https://www.zimperium.com/
    backgroundSize: 125px
-   type: OWASP Leaders Meeting/Open Bar Sponsor
-   
+   type: OWASP Leaders Meeting/Open Bar Sponsor  
+ - logo: /assets/images/sponsors/DryRun.png
+   name: DRYRUN SECURITY
+   url: https://www.dryrun.security/
+   backgroundSize: 125px
+   type: Start-Up
+ - logo: /assets/images/sponsors/Nullify.jpeg
+   name: Nullify
+   url: https://www.nullify.ai/
+   backgroundSize: 125px
+   type: Start-Up
    
    
