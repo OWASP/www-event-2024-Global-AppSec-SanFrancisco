@@ -263,5 +263,9 @@
    url: https://www.zenity.io/
    backgroundSize: 125px
    type: Start-Up
-   
+ - logo: /assets/images/sponsors/myrror-logo-horizontal.png
+   name: Myrror Security
+   url: https://myrror.security/
+   backgroundSize: 125px
+   type: Start-Up
    
