@@ -308,12 +308,13 @@
     - Name: Jim Manico
       Email: Jim.Manico@owasp.org
       Image: /assets/images/leanjune2022profile.jpg
-      Twitter: Manicode
+      Twitter: Manicode 
       Biography: >-
-          Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. 
-          He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. 
-          Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of <i>Iron-Clad Java, Building Secure Web Applications</i> from Oracle Press. 
-          Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series.
+          Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an 
+          investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, 
+          is a member of the Java Champion community, and is the author of <strong>Iron-Clad Java - Building Secure Web Applications</strong> from Oracle Press. Jim also 
+          volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. 
+          For more information, see https://www.linkedin.com/in/jmanico.        
   TrainerId: trainer007
   Title: Application Security Training - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
