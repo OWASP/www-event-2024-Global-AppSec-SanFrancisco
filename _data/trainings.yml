@@ -298,4 +298,134 @@
       This training is a deep hands-on, red-team exploration of application supply-chains. We commence with an understanding of application supply chains, and subsequently dive into story-driven scenarios of exploiting supply-chains like exploiting CI systems, and build systems. Container infrastructure and cloud-native infrastructure hosted on Kubernetes, AWS, and Azure.
 
       People learn better with stories. Our exploit and lateral movement scenarios are intricately designed labs that are backed by real-world stories that help students understand this subject-matter a lot better. This training was sold out at Blackhat USA 2023 with a 4.8/5 Rating
-      
+- Type: Training
+  Trainers: 
+    - Name: Jim Manico
+      Email: Jim.Manico@owasp.com
+      Image: /assets/images/leanjune2022profile.jpg
+      Twitter: Manicode
+      Biography: >-
+          Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of "Iron-Clad Java: Building Secure Web Applications" from Oracle Press. Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series. For more information, see https://www.linkedin.com/in/jmanico.
+  TrainerId: trainer007
+  Title: Application Security Training - 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_HAIIE
+  Description: >-
+      Join Jim Manico for an intensive 2-day training session at AppSec SF 2024, where you'll delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.
+
+      Day 1 Core Application Security
+      Morning Sessions
+
+      Input Validation Basics
+
+      Allowlist Validation
+      Safe Redirects
+      HTTP Security Basics
+
+      Response/Request Headers
+      Verbs
+      Secure Transport Basics
+      SOP and CORS
+
+      Same-Origin Policy
+      Cross-Origin Resource Sharing Security
+      Lunch Break
+
+      Afternoon Sessions
+
+      SQL and Other Injections
+
+      Parameterized Queries
+      Secure Database Configurations
+      Command Injection
+      Cross-Site Request Forgery
+
+      CSRF Defenses for Various Architectures
+      File Upload and File I/O Security
+
+      Secure File Upload
+      File I/O Security
+      Third-Party Library Security Management
+
+      Ensuring Third-Party Library Security
+      Security Logging and Monitoring
+
+      Security-Focused Logging
+      Application Layer Intrusion Detection
+
+      Detecting App Layer Attacks
+
+      Day 2 Advanced Application Security
+      Morning Sessions
+
+      API and REST Security
+
+      REST Design
+      XML, XXE, JSON
+      API Access Control
+      Microservice Security
+
+      Security Architectures in Microservices
+      JSON Web Tokens (JWT)
+
+      Addressing JWT Security Challenges
+      AI for Code Creation
+
+      Exploring the Security Implications of Using AI for Code Generation
+      Lunch Break
+
+      Afternoon Sessions
+
+      OWASP Top 10 for Large Language Model (LLM) Applications
+
+      Top 10 Practices for Protecting Large Language Model Applications
+      OWASP Top Ten
+
+      Top Ten Web Security Risks
+      Introduction to GDPR
+
+      European Data Privacy Law
+      OWASP ASVS
+
+      Comprehensive Secure Coding Standard
+      XSS Defense
+
+      Client-Side Web Security
+      Content Security Policy
+
+      Advanced Client-Side Web Security
+      React Security
+
+      Secure React Application Development
+      Authentication Best Practices
+
+      Web Authentication Practices
+      Multi-Factor Authentication
+
+      NIST SP-800-63 Compliant MFA Implementation
+      Secure Password Policy and Storage
+
+      Secure User Password Policy and Storage
+      Access Control Design
+
+      ABAC/Capabilities-Based Access Control
+      OAuth2 and OIDC Security Intro
+
+      OAuth2 Authorization Protocol
+      Secrets Management
+
+      Key and Credential Storage Strategies
+      Cryptography Fundamentals
+
+      DevOps Best Practices
+
+      DevOps and DevSecOps with a CD/CI Focus
+      Introduction to Istio Security
+
+      Basics of Istio Security Management
+      Introduction to iOS and Android Security
+
+      Mobile Security Fundamentals
+      Subdomain Takeover
+
+      Preventing Subdomain Takeover Scenarios
