@@ -10,7 +10,7 @@
             "metadata": {
                 "type": "regular",
                 "inventory": "9",
-                "description": "<p>Capture the flag</p>",
+                "description": "<p>Capture the Flag</p>",
                 "discountable": "True",
                 "display_order": "-6"
             }
