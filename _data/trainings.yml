@@ -187,7 +187,7 @@
       <br>
       We levelled up the threat modeling war game. Engaged in CTF-style challenges, your team will battle for control over an offshore wind turbine park.<br>
       <br>
-      The level of this training is Beginner/Intermediate. Participants who are new to threat modeling are advised to follow our self-paced Threat Modeling Introduction training (which is about 2 hours and is included in this training.<br>
+      The level of this training is Beginner/Intermediate. Participants who are new to threat modeling are advised to follow our self-paced Threat Modeling Introduction training, which is about 2 hours and is included in this training.<br>
       <br>
       As highly skilled professionals with years of experience under our belts, we're intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-world projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.<br>
       <br>
@@ -311,50 +311,58 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
-      Join Jim Manico for an intensive 2-day training session at AppSec SF 2024, where you'll delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.
+      Join Jim Manico for an intensive 2-day training session at AppSec SF 2024, where you'll delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.<br>
+      <br>
+      Day 1 Core Application Security<br>
+      Morning Sessions<br>
 
-      Day 1 Core Application Security
-      Morning Sessions
+      Input Validation Basics<br>
 
-      Input Validation Basics
-
-      Allowlist Validation
-      Safe Redirects
+      <li>Allowlist Validation</li>
+      <li>Safe Redirects</li>
+      <br>
       HTTP Security Basics
 
-      Response/Request Headers
-      Verbs
-      Secure Transport Basics
+      <li>Response/Request Headers</li>
+      <li>Verbs</li>
+      <li>Secure Transport Basics</li>
+      <br>
       SOP and CORS
 
-      Same-Origin Policy
-      Cross-Origin Resource Sharing Security
+      <li>Same-Origin Policy</li>
+      <li>Cross-Origin Resource Sharing Security</li>
+      <br>
       Lunch Break
-
+      <br>
       Afternoon Sessions
-
+      
       SQL and Other Injections
 
-      Parameterized Queries
-      Secure Database Configurations
-      Command Injection
+      <li>Parameterized Queries</li>
+      <li>Secure Database Configurations</li>
+      <li>Command Injection</li>
+      <br>
       Cross-Site Request Forgery
 
-      CSRF Defenses for Various Architectures
+      <li>CSRF Defenses for Various Architectures</li>
+      <br>
       File Upload and File I/O Security
-
-      Secure File Upload
-      File I/O Security
+      
+      <li>Secure File Upload</li>
+      <li>File I/O Security</li>
+      <br>
       Third-Party Library Security Management
 
-      Ensuring Third-Party Library Security
+      <li>Ensuring Third-Party Library Security</li>
+      <br>
       Security Logging and Monitoring
 
-      Security-Focused Logging
+      <li>Security-Focused Logging</li>
+      <br>
       Application Layer Intrusion Detection
 
-      Detecting App Layer Attacks
-
+      <li>Detecting App Layer Attacks</li>
+      <br>
       Day 2 Advanced Application Security
       Morning Sessions
 
@@ -428,4 +436,5 @@
       Mobile Security Fundamentals
       Subdomain Takeover
 
-      Preventing Subdomain Takeover Scenarios
+      Preventing Subdomain Takeover Scenarios<br>
+      <br>
