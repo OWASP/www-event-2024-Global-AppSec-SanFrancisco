@@ -245,7 +245,8 @@
       In this part of each story, we’d explore a combination of several security mechanisms that are natively provided by the cloud provider.
 
       The security implementations we’ll be exploring across the stories are including, but are not limited to
-      <ul><li>AWS Network Security Controls => VPC, Advanced VPC Controls (Mirroring, Flow Logs, etc), Security Groups, etc</li>
+      <ul>
+      <li>AWS Network Security Controls => VPC, Advanced VPC Controls (Mirroring, Flow Logs, etc), Security Groups, etc</li>
       <li>AWS IAM and Advanced IAM deployment, policies, and Policy Management</li>
       <li>AWS Security Services => Security Hub, GuardDuty, etc</li>
       <li>AWS Host Security Services => IMDSv2, Host level security monitoring using OSQuery, etc</li>
@@ -265,7 +266,8 @@
       <li>Azure IAM and Advanced IAM deployment, policies, and Policy Management</li>
       <li>Azure Security Services => Microsoft sentinel, Defender for cloud service, advanced threat protection, Azure security center e.t.c</li>
       <li>Security logging and monitoring with Azure monitor logs, Azure network watcher, and security orchestration automated incident response through Microsoft sentinel</li>
-      <li>Leveraging multiple encryption techniques through Azure key vault</li></ul>
+      <li>Leveraging multiple encryption techniques through Azure key vault</li>
+      </ul>
 
       The scope of this training encompasses the Big Three Cloud Providers (AWS, Azure, and GCP). In addition, since Kubernetes is a cross-cutting concern across all three cloud environments, there would be relevant Kubernetes specific stories showcased in the training as well.
 
@@ -277,8 +279,8 @@
 
       This class is an intense, deep-dive experience in Multi-Cloud Application Security. We’d like participants to explore practical implementations of full-fledged environments, rather than have a surface-level understanding of attack and defense in AWS, Azure, and GCP. 
 - Type: Training
-  Trainers: 
-    - Name: vishnu prasad
+  Trainers:
+    - Name: Vishnu Prasad
       Email: vishnu.prasad@we45.com
       Image: /assets/images/vishnup.jpg
       Twitter: visheprasad
@@ -299,7 +301,7 @@
 
       People learn better with stories. Our exploit and lateral movement scenarios are intricately designed labs that are backed by real-world stories that help students understand this subject-matter a lot better. This training was sold out at Blackhat USA 2023 with a 4.8/5 Rating
 - Type: Training
-  Trainers: 
+  Trainers:
     - Name: Jim Manico
       Email: Jim.Manico@owasp.org
       Image: /assets/images/leanjune2022profile.jpg
@@ -311,7 +313,7 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
-      Join Jim Manico for an intensive 2-day training session at AppSec SF 2024, where you'll delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.<br>
+      Join Jim Manico for an intensive 2-day training session at Global AppSec SF 2024, where you'll delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.<br>
       <br>
       Day 1 Core Application Security<br>
       Morning Sessions<br>
