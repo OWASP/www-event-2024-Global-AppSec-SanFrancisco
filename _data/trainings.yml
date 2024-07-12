@@ -318,19 +318,19 @@
 
       Input Validation Basics<br>
 
-      <li>Allowlist Validation</li>
-      <li>Safe Redirects</li>
+      <ul><li>Allowlist Validation</li>
+      <li>Safe Redirects</li></ul>
       <br>
       HTTP Security Basics
 
-      <li>Response/Request Headers</li>
+      <ul><li>Response/Request Headers</li>
       <li>Verbs</li>
-      <li>Secure Transport Basics</li>
+      <li>Secure Transport Basics</li></ul>
       <br>
       SOP and CORS
 
-      <li>Same-Origin Policy</li>
-      <li>Cross-Origin Resource Sharing Security</li>
+      <ul><li>Same-Origin Policy</li>
+      <li>Cross-Origin Resource Sharing Security</li></ul>
       <br>
       Lunch Break
       <br>
@@ -338,103 +338,123 @@
       
       SQL and Other Injections
 
-      <li>Parameterized Queries</li>
+      <ul><li>Parameterized Queries</li>
       <li>Secure Database Configurations</li>
-      <li>Command Injection</li>
+      <li>Command Injection</li></ul>
       <br>
       Cross-Site Request Forgery
 
-      <li>CSRF Defenses for Various Architectures</li>
+      <ul><li>CSRF Defenses for Various Architectures</li></ul>
       <br>
       File Upload and File I/O Security
       
-      <li>Secure File Upload</li>
-      <li>File I/O Security</li>
+      <ul><li>Secure File Upload</li>
+      <li>File I/O Security</li></ul>
       <br>
       Third-Party Library Security Management
 
-      <li>Ensuring Third-Party Library Security</li>
+      <ul><li>Ensuring Third-Party Library Security</li></ul>
       <br>
       Security Logging and Monitoring
 
-      <li>Security-Focused Logging</li>
+      <ul><li>Security-Focused Logging</li></ul>
       <br>
       Application Layer Intrusion Detection
 
-      <li>Detecting App Layer Attacks</li>
+      <ul><li>Detecting App Layer Attacks</li></ul>
       <br>
       Day 2 Advanced Application Security
       Morning Sessions
 
       API and REST Security
 
-      REST Design
-      XML, XXE, JSON
-      API Access Control
+      <ul><li>REST Design</li>
+      <li>XML, XXE, JSON</li>
+      <li>API Access Control</li></ul>
+      <br>
       Microservice Security
 
-      Security Architectures in Microservices
+      <ul><li>Security Architectures in Microservices</li></ul>
+      <br>
       JSON Web Tokens (JWT)
 
-      Addressing JWT Security Challenges
+      <ul><li>Addressing JWT Security Challenges</li></ul>
+      <br>
       AI for Code Creation
 
-      Exploring the Security Implications of Using AI for Code Generation
+      <ul><li>Exploring the Security Implications of Using AI for Code Generation</li></ul>
+      <br>
       Lunch Break
-
+      <br>
       Afternoon Sessions
-
+      <br>
       OWASP Top 10 for Large Language Model (LLM) Applications
 
-      Top 10 Practices for Protecting Large Language Model Applications
+      <ul><li>Top 10 Practices for Protecting Large Language Model Applications</li></ul>
+      <br>
       OWASP Top Ten
 
-      Top Ten Web Security Risks
+      <ul><li>Top Ten Web Security Risks</li></ul>
+      <br>
       Introduction to GDPR
 
-      European Data Privacy Law
+      <ul><li>European Data Privacy Law</li></ul>
+      <br>
       OWASP ASVS
 
-      Comprehensive Secure Coding Standard
+      <ul><li>Comprehensive Secure Coding Standard</li></ul>
+      <br>
       XSS Defense
 
-      Client-Side Web Security
+      <ul><li>Client-Side Web Security</li></ul>
+      <br>
       Content Security Policy
 
-      Advanced Client-Side Web Security
+      <ul><li>Advanced Client-Side Web Security</li></ul>
+      <br>
       React Security
 
-      Secure React Application Development
+      <ul><li>Secure React Application Development</li></ul>
+      <br>
       Authentication Best Practices
 
-      Web Authentication Practices
+      <ul><li>Web Authentication Practices</li></ul>
+      <br>
       Multi-Factor Authentication
 
-      NIST SP-800-63 Compliant MFA Implementation
+      <ul><li>NIST SP-800-63 Compliant MFA Implementation</li></ul>
+      <br>
       Secure Password Policy and Storage
 
-      Secure User Password Policy and Storage
+      <ul><li>Secure User Password Policy and Storage</li></ul>
+      <br>
       Access Control Design
 
-      ABAC/Capabilities-Based Access Control
+      <ul><li>ABAC/Capabilities-Based Access Control</li></li>
+      <br>
       OAuth2 and OIDC Security Intro
 
-      OAuth2 Authorization Protocol
+      <ul><li>OAuth2 Authorization Protocol/li></ul>
+      <br>
       Secrets Management
 
-      Key and Credential Storage Strategies
+      <ul><li>Key and Credential Storage Strategies</li></ul>
+      <br>
       Cryptography Fundamentals
 
       DevOps Best Practices
 
-      DevOps and DevSecOps with a CD/CI Focus
+      <ul><li>DevOps and DevSecOps with a CD/CI Focus</li></ul>
+      <br>
       Introduction to Istio Security
 
-      Basics of Istio Security Management
+      <ul><li>Basics of Istio Security Management</li></ul>
+      <br>
       Introduction to iOS and Android Security
 
-      Mobile Security Fundamentals
+      <ul><li>Mobile Security Fundamentals</li></ul>
+      <br>
       Subdomain Takeover
 
-      Preventing Subdomain Takeover Scenarios<br>
+      <ul><li>Preventing Subdomain Takeover Scenarios</li></ul>
       <br>
