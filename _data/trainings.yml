@@ -1,4 +1,4 @@
-- Type: Training
+  - Type: Training
   Trainers: 
     - Name: Abraham Aranguren
       Email: admin@7asecurity.com
@@ -302,6 +302,7 @@
       This training is a deep hands-on, red-team exploration of application supply-chains. We commence with an understanding of application supply chains, and subsequently dive into story-driven scenarios of exploiting supply-chains like exploiting CI systems, and build systems. Container infrastructure and cloud-native infrastructure hosted on Kubernetes, AWS, and Azure.
 
       People learn better with stories. Our exploit and lateral movement scenarios are intricately designed labs that are backed by real-world stories that help students understand this subject-matter a lot better. This training was sold out at Blackhat USA 2023 with a 4.8/5 Rating
+
 - Type: Training
   Trainers:
     - Name: Jim Manico
@@ -309,13 +310,16 @@
       Image: /assets/images/leanjune2022profile.jpg
       Twitter: Manicode
       Biography: >-
-          Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of "Iron-Clad Java, Building Secure Web Applications" from Oracle Press. Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series.
+          Jim Manico is the founder of Manicode Security, where he trains software developers on secure coding and security engineering. 
+          He is also an investor/advisor for 10Security, Aiya, MergeBase, Nucleus Security, KSOC, and Inspectiv. 
+          Jim is a frequent speaker on secure software practices, is a member of the Java Champion community, and is the author of <i>Iron-Clad Java, Building Secure Web Applications</i> from Oracle Press. 
+          Jim also volunteers for the OWASP foundation as the project lead for the OWASP Application Security Verification Standard and the OWASP Cheatsheet Series.
   TrainerId: trainer007
   Title: Application Security Training - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
-      Join Jim Manico for an intensive 2-day training session at Global AppSec SF 2024, where you'll delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.<br>
+      Join Jim Manico for an intensive 2-day training session at Global AppSec SF 2024, where you will delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.<br>
       <br>
       Day 1 Core Application Security<br>
       Morning Sessions<br>
