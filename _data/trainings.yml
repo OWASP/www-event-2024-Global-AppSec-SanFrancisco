@@ -43,7 +43,7 @@
           <strong>          
           Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the 
           subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by 
-          leveraging his extensive experience in the industry.'
+          leveraging his extensive experience in the industry.
           </strong>
           Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA and the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)². 
   TrainerId: trainer002
@@ -53,7 +53,7 @@
   Description: >-
       This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.<br>
       <br>
-      The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.<br>
+      The course is aligned with the OWASP Top 10 2021, a world-renowned reference document which describes the most critical web application security flaws.<br>
       <br>
       The topics covered include<br>
 
@@ -91,7 +91,7 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_WASE
   Description: >-
-      (Available as hybrid - in Person or online)
+      **Available as hybrid - in Person or online**
 
       This three-day hands-on course teaches penetration testers and developers how to analyse Android and iOS applications for security vulnerabilities by going through the different phases of testing, including dynamic testing, static analysis, reverse engineering and Software Composition Analysis (SCA), using the OWASP Mobile Application Security Testing Guide (MASTG). The OWASP MASTG is a comprehensive and open source guide to mobile security testing for both iOS and Android, providing a methodology and very detailed technical test cases to ensure completeness and using the latest attack techniques against mobile applications. This course will give you hands-on experience with open source tools and advanced methodologies by guiding you through real-world scenarios.
       <br>
@@ -189,7 +189,7 @@
       <br>
       The level of this training is Beginner/Intermediate. Participants who are new to threat modeling are advised to follow our self-paced Threat Modeling Introduction training, which is about 2 hours and is included in this training.<br>
       <br>
-      As highly skilled professionals with years of experience under our belts, we're intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-world projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.<br>
+      As highly skilled professionals with years of experience under our belts, we are intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-world projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.<br>
       <br>
       Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling<br>
       <br>
@@ -218,13 +218,13 @@
           Abhay Bhargav is the Founder of the Chief Research Officer of AppSecEngineer, an elite, hands-on online training platform and we45 a specialized AppSec Company.
           Abhay started his career as a breaker of apps, in pentesting and red-teaming, but today is more involved in scaling AppSec with Cloud-Native Security and DevSecOps
           He has created some pioneering works in the area of DevSecOps and AppSec Automation, including the world’s first hands-on training program on DevSecOps, focused on Application Security Automation. In addition to this, Abhay is active in his research of new technologies and their impact on Application Security, specifically Cloud-Native Security. In addition, Abhay has contributed to pioneering work in the Vulnerability Management space, being the architect of a leading Vulnerability Management and Correlation Product, Orchestron. Abhay is also committed to Open-Source and has developed the first-ever Threat Modeling solution at the crossroads of Agile and DevSecOps, called ThreatPlaybook.
-          Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His training programs have been sold-out events at conferences like AppSecUSA, EU, AppSecDay Melbourne, CodeBlue (Japan), BlackHat USA, SHACK and so on. He's authored two international publications on Java Security and PCI Compliance as well. 
+          Abhay is a speaker and trainer at major industry events including DEF CON, BlackHat, OWASP AppSecUSA, EU and AppSecCali. His training programs have been sold-out events at conferences like AppSecUSA, EU, AppSecDay Melbourne, CodeBlue (Japan), BlackHat USA, SHACK and so on. He has authored two international publications on Java Security and PCI Compliance as well. 
   TrainerId: trainer005
   Title: Attacking and Defending - AWS, Azure and GCP Applications - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_WASE
   Description: >-
-      Multicloud environments have grown in prevalence and significance. According to a study by VMWare[1] in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. By some estimates (Hashicorp[2]), nearly 90% of organizations are multicloud.
+      Multicloud environments have grown in prevalence and significance. According to a study by VMWare[1] in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. By some estimates (Hashicorp[2]), nearly 90% of organizations are multicloud.<br>
 
       Multicloud environments, consequently, lead to a variety of different application deployments and environments. Applications ranging from traditional VM deployed apps, to containerized apps on Kubernetes or other managed Container Orchestration apps to FaaS (Functions-as-a-Service) apps are deployed on the Big Three cloud providers (AWS, Azure, and GCP).
 
@@ -233,10 +233,12 @@
       This training has been designed with our highly renowned approach of ADD (Attack-Detect-Defend). This is where we use stories and get students to work through intricately designed technical scenarios. As part of each story, the student deploys the app on the relevant cloud environment using Infrastructure-as-Code tools like Terraform, CDK, Bicep, and others. The application(s), along with the stack (the cloud resources and configuration) is vulnerable in many small and serious ways. For the “Attack” part of the story, the students deploy the stack. Once the application is deployed, the students explore a compromise of the application. The students leverage vulnerabilities and execute carefully planned attack sequences that are designed to escalate privileges into the specific cloud environment and start to perform post-exploit activities ranging from data exfiltration to resource manipulation. This completes one part of the story where we go from deploying the application to attacking the application and compromising the underlying cloud infrastructure. This is the section of each story, where participants will do a CTF-style session. Here they will spend time identifying and attacking these infrastructures with multi-step attacks, where they perform extensive examples of lateral movement using techniques highlighted in the MITRE ATT&CK Framework, popular bug-bounties, and our own experiences with attacking and auditing cloud infrastructure.
 
       For the “Detect” part of the story, we look at scenarios that involve Incident Response, Detection Engineering on the cloud, with these various Cloud Providers. In this part of the story, we have students deploy an identical (still vulnerable stack). However, this time, they deploy stacks with detection services enabled and configured. These detection services include, but are not limited to
-      <ul><li>Ingesting and harnessing Control-Plane Logs of the Cloud Provider/Service</li>
+      <ul>
+      <li>Ingesting and harnessing Control-Plane Logs of the Cloud Provider/Service</li>
       <li>Leveraging Threat Intelligence Services provided by the Cloud Provider</li>
       <li>Leveraging ETL Services and Cloud Storage to build Detection Queries and parameters</li>
-      <li>And more</li></ul>
+      <li>And more</li>
+      </ul>
       
       The idea here is to get the student to perform the same attack sequences against the Cloud environment. Except for this time, deployed detection mechanisms identify these incursions and identify the attack attempts.
 
@@ -370,9 +372,11 @@
 
       API and REST Security
 
-      <ul><li>REST Design</li>
+      <ul>
+      <li>REST Design</li>
       <li>XML, XXE, JSON</li>
-      <li>API Access Control</li></ul>
+      <li>API Access Control</li>
+      </ul>
       <br>
       Microservice Security
 
