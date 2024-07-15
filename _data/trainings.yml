@@ -72,7 +72,7 @@
       <li>Security Logging and Monitoring Failures</li>
       <li>Server Side Request Forgery (SSRF)</li></ul>
       <br>
-      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.<br>
+      Format - The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
       <br>
 - Type: Training
   Trainers: 
@@ -85,13 +85,13 @@
   
           Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applications during the whole SDLC to build security in from the start.
 
-          Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers. 
+          Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
   TrainerId: trainer003
   Title: The Mobile Playbook - A guide for iOS and Android App Security - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_WASE
   Description: >-
-      **Available as hybrid - in Person or online**
+      **Available as hybrid, - in Person or Online**
 
       This three-day hands-on course teaches penetration testers and developers how to analyse Android and iOS applications for security vulnerabilities by going through the different phases of testing, including dynamic testing, static analysis, reverse engineering and Software Composition Analysis (SCA), using the OWASP Mobile Application Security Testing Guide (MASTG). The OWASP MASTG is a comprehensive and open source guide to mobile security testing for both iOS and Android, providing a methodology and very detailed technical test cases to ensure completeness and using the latest attack techniques against mobile applications. This course will give you hands-on experience with open source tools and advanced methodologies by guiding you through real-world scenarios.
       <br>
@@ -169,7 +169,6 @@
       <ul><li>This course is for Beginners and Intermediate</li>
       <li>Basic understanding of mobile apps</li>
       <li>able to use Linux command line</li></ul>
-      <br>
 - Type: Training
   Trainers: 
     - Name: Sebastien Deleersnyder
@@ -224,7 +223,7 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_WASE
   Description: >-
-      Multicloud environments have grown in prevalence and significance. According to a study by VMWare[1] in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. By some estimates (Hashicorp[2]), nearly 90% of organizations are multicloud.<br>
+      Multicloud environments have grown in prevalence and significance. According to a study by VMWare in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. Additionally, Hashicorp estimates nearly 90% of organizations are multicloud.<br>
 
       Multicloud environments, consequently, lead to a variety of different application deployments and environments. Applications ranging from traditional VM deployed apps, to containerized apps on Kubernetes or other managed Container Orchestration apps to FaaS (Functions-as-a-Service) apps are deployed on the Big Three cloud providers (AWS, Azure, and GCP).
 
