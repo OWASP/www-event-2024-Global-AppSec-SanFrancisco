@@ -278,4 +278,9 @@
    url: https://tidelift.com/
    backgroundSize: 125px
    type: Conference Lunch
+ - logo: /assets/images/sponsors/OpenText.png
+   name: OpenText
+   url: https://www.opentext.com/about
+   backgroundSize: 125px
+   type: Diamond
    
