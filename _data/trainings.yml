@@ -470,3 +470,19 @@
 
       <ul><li>Preventing Subdomain Takeover Scenarios</li></ul>
       <br>
+- Type: Training
+  Trainers: 
+    - Name: Harold Blankenship
+      Email: harold.blankenship@owasp.org
+      Image: /assets/images/headshot_bw_dd.jpg
+      Twitter: OWASPDirPrjTech
+      Biography: >-
+          Harold Blankenship is an open source cybersecurity aficionado who likes to see the proliferation of good open source solutions to everyday application security problems. As the previous Director of Technology and
+          Projects at OWASP, Harold is knowledgeable in and has been a staunch supporter of the various OWASP projects used in this training. Harold is now the Director - Community & Customer Success with DefectDojo, Inc. and is also Vice chair of the OWASP Events Committee and OWASP project leader for Developer Guide. 
+          Harold received his Bachelor of Science degree in Computer Science from Texas State University and his Master of Science in Cybersecurity from New York University  
+  TrainerId: trainer008
+  Title: OWASP in Action - ASPM with OWASP Projects - 2 Day Training
+  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+  SectionId: sku_HAIIE
+  Description: >-
+      If you are facing the challenge of Application Security Posture Management amidst a plethora of applications and issues, this course is designed to streamline the process using OWASP’s open source projects, optimized for DevSecOps workflows. Over the span of two days, you’ll engage in interactive lectures and labs that showcase the effective application of OWASP tools, as previously implemented by seasoned AppSec teams. Recognizing that the size of AppSec teams is often a limiting factor, the course emphasizes automation of routine tasks to free up your time for more complex problem-solving. Upon completion, you will be equipped with a comprehensive set of strategies and tools to enhance your AppSec initiatives through automation and the integration of OWASP projects, all delivered at DevSecOps pace. The instructors, with over two decades of industry and OWASP project experience, offer practical, proven guidance for achieving success in ASPM
