@@ -11,7 +11,7 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
-      **In person and online training option available**<br>
+      <strong>In person and online training option available</strong><br>
       <br>
       This course is the culmination of years of experience gained via practical penetration testing of mobile applications as well as countless hours spent in research. We have structured this course around the OWASP Mobile Security Testing Guide (MSTG) and relevant items of the OWASP Mobile Application Security Verification Standard (MASVS), so this course covers and goes beyond the OWASP Mobile Top Ten.<br> 
       <br>
@@ -23,11 +23,11 @@
       <br>
       Each section starts with a brief introduction to the mobile platform for that section and then continues with a look at static analysis, moves on to dynamic checks finishing off with a nice CTF session to test the skills gained.
       <br>
-      <li>Day 1 - Focused specifically on Android. We start with understanding applications and then deep dive into static and dynamic analysis of the applications at hand. This section is packed with hands-on exercises and CTF-style challenges.</li>
+      <ul><li>Day 1 - Focused specifically on Android. We start with understanding applications and then deep dive into static and dynamic analysis of the applications at hand. This section is packed with hands-on exercises and CTF-style challenges.</li></ul>
       <br>
-      <li>Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.</li>
+      <ul><li>Day 2 - Focused on iOS. We start with understanding iOS Architecture and various security precautions in place. We then focus on static and dynamic analysis of the applications at hand. The section is filled with hands-on exercises ending with a CTF for more practical fun.</li></ul>
       <br>
-      <li>Day 3 - We cover advanced instrumentation techniques using Frida, Objection, radare2, r2frida, RMS and other tools to overcome assessment challenges and take your skills to the next level. This day will give people a wealth of knowledge in dynamic instrumentation capabilities on Android and iOS.</li>
+      <ul><li>Day 3 - We cover advanced instrumentation techniques using Frida, Objection, radare2, r2frida, RMS and other tools to overcome assessment challenges and take your skills to the next level. This day will give people a wealth of knowledge in dynamic instrumentation capabilities on Android and iOS.</li></ul>
       <br>
       See an explanatory video for the course here<br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/Re5oqfVkgd4?si=CUzkp4azSvwl2wU6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -81,17 +81,21 @@
       Image: /assets/images/sven_headshot.png
       Twitter: bsd_daemon
       Biography: >-
-          Sven is the Technical Director of WithSecure (formerly known as F-Secure Consulting) in Singapore, specialised in penetration testing and application security and leading the consulting practice.
+          Sven is the Technical Director of WithSecure (formerly known as F-Secure Consulting) in Singapore, specialised in penetration testing and application security and leading 
+          the consulting practice.
   
-          Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applications during the whole SDLC to build security in from the start.
+          Next to offensive security engagements he has supported and guided software development projects for Mobile and Web Applications during the whole SDLC to build security 
+          in from the start.
 
-          Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
+          Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application 
+          Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile Security worldwide to 
+          different audiences, ranging from developers to students and penetration testers.
   TrainerId: trainer003
   Title: The Mobile Playbook - A guide for iOS and Android App Security - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_WASE
+  SectionId: sku_TMPAGFIAAS
   Description: >-
-      **Available as hybrid, - in Person or Online**
+      <strong>Available as hybrid, - in Person or Online</strong>
 
       This three-day hands-on course teaches penetration testers and developers how to analyse Android and iOS applications for security vulnerabilities by going through the different phases of testing, including dynamic testing, static analysis, reverse engineering and Software Composition Analysis (SCA), using the OWASP Mobile Application Security Testing Guide (MASTG). The OWASP MASTG is a comprehensive and open source guide to mobile security testing for both iOS and Android, providing a methodology and very detailed technical test cases to ensure completeness and using the latest attack techniques against mobile applications. This course will give you hands-on experience with open source tools and advanced methodologies by guiding you through real-world scenarios.
       <br>
@@ -112,7 +116,7 @@
       <br>
       Android<br>
       <br>
-      <ul><li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)
+      <ul><li>Analyse the storage of an Android app and understand the various options on how and where files can be stored (app-specific, shared storage etc.)</li>
       <li>Using Brida (Frida and Burp) to bypass End2End encryption in an Android App</li>
       <li>Static Scanning of Kotlin source code, identifying vulnerabilities and eliminating false positives</li>
       <li>Scanning for secrets in an APK</li></ul>
@@ -180,7 +184,7 @@
   TrainerId: trainer004
   Title: Agile Whiteboard Hacking – aka Hands-on Threat Modeling - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_WASE
+  SectionId: sku_AWHAHTM
   Description: >-
       Based on the updated Black Hat edition 2024 training, you will be challenged with hands-on threat modeling exercises based on real-world projects. You will get insight into our practical industry experience, helping you to become a Threat Modeling Practitioner. We included an exercise on MITRE ATT&CK, and we focus on embedding threat modeling in Agile and DevOps practices. And we introduce a new challenge on threat modeling a Machine Learning-Powered Chatbot.<br>
       <br>
@@ -221,7 +225,7 @@
   TrainerId: trainer005
   Title: Attacking and Defending - AWS, Azure and GCP Applications - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_WASE
+  SectionId: sku_ADAAGA
   Description: >-
       Multicloud environments have grown in prevalence and significance. According to a study by VMWare in 2021, 73% of companies surveyed had adopted multi-cloud deployments with 2 cloud providers and 26% of them had adopted 3 cloud providers. Additionally, Hashicorp estimates nearly 90% of organizations are multicloud.<br>
 
@@ -294,7 +298,7 @@
   TrainerId: trainer006
   Title: Attacking the Application Supply Chain - 3 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_HAIIE
+  SectionId: sku_AASC
   Description: >-
       Supply Chain risks are everywhere. We’ve seen a burst of supply chain exploits against organizations, totaling billions of dollars of value lost. Supply-chain security and implementation is essential and required by regulation. However, pentesters and red-teams must understand how they can leverage supply-chain attacks against applications, to further strengthen their defense implementations against it.
 
@@ -312,7 +316,7 @@
   TrainerId: trainer007
   Title: Application Security Training - 2 Day Training
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_HAIIE
+  SectionId: sku_AST2DT
   Description: >-
       Join Jim Manico for an intensive 2-day training session at Global AppSec SF 2024, where you will delve into core and advanced application security topics. The course covers essential areas such as input validation, HTTP security, SOP and CORS, SQL injections, CSRF, secure file handling, and third-party library management. It further explores advanced subjects including API and REST security, microservices security, JWTs, AI for code creation, OWASP Top 10 for large language models, GDPR, XSS defense, authentication best practices, cryptography, DevOps security, mobile security, and preventing subdomain takeovers. This comprehensive program equips participants with practical knowledge and skills to fortify their applications against a wide array of security threats.<br />
       <br>
