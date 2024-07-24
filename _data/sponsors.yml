@@ -272,5 +272,10 @@
    name: Reversing Labs
    url: https://www.reversinglabs.com/
    backgroundSize: 125px
-   type: Coffee Break Sponsor
+   type: Coffee Break 
+ - logo: /assets/images/sponsors/TifeliftLogo.png
+   name: Tidelift
+   url: https://tidelift.com/
+   backgroundSize: 125px
+   type: Conference Lunch
    
