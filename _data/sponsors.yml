@@ -293,7 +293,11 @@
    url: https://www.armosec.io/
    backgroundSize: 125px
    type: Silver
-   
+ - logo: /assets/images/sponsors/OpenRefactory.png
+   name: OpenRefactory
+   url: https://www.openrefactory.com/technology/
+   backgroundSize: 125px
+   type: Silver
 
  
    
