@@ -283,4 +283,9 @@
    url: https://www.opentext.com/about
    backgroundSize: 125px
    type: Diamond
+ - logo: /assets/images/sponsors/Wallarm_Logo.png
+   name: Wallarm
+   url: https://www.wallarm.com/
+   backgroundSize: 125px
+   type: Gold
    
