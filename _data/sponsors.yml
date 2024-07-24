@@ -288,4 +288,12 @@
    url: https://www.wallarm.com/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/Armo_logo.png
+   name: ARMO
+   url: https://www.armosec.io/
+   backgroundSize: 125px
+   type: Silver
+   
+
+ 
    
