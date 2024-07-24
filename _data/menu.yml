@@ -20,8 +20,9 @@
        url: https://owasp.wufoo.com/forms/global-appsec-san-fran-exhibit-sponsor-interest/
     #- title: Exhibitors & Sponsors
     #  url: 
-    #- title: Pre-Event Exhibitor Kit
-    # url: /exhibitordetails/
+     - title: Pre-Event Exhibitor Kit
+       url: /assets/images/2024GlobalAppSecSanFranciscoExhibitorPre-Event Kit.pdf
+
 - title: ABOUT
   #url: /about/
   items:
