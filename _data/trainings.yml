@@ -480,9 +480,17 @@
           Harold Blankenship is an open source cybersecurity aficionado who likes to see the proliferation of good open source solutions to everyday application security problems. As the previous Director of Technology and
           Projects at OWASP, Harold is knowledgeable in and has been a staunch supporter of the various OWASP projects used in this training. Harold is now the Director - Community & Customer Success with DefectDojo, Inc. and is also Vice chair of the OWASP Events Committee and OWASP project leader for Developer Guide. 
           Harold received his Bachelor of Science degree in Computer Science from Texas State University and his Master of Science in Cybersecurity from New York University  
-  TrainerId: trainer008
-  Title: OWASP in Action - ASPM with OWASP Projects - 2 Day Training
-  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_HAIIE
-  Description: >-
+      TrainerId: trainer008
+    - Name: Matt Tesauro
+      Email: matt.tesauro@owasp.org
+      Image: /assets/images/matttesauroheadshotsmalluse.png
+      Twitter: Matt_tesauro
+      Biography: >-
+          Matt Tesauro is a DevSecOps and AppSec guru who specializes in creating security programs, leveraging automation to maximize team velocity and training emerging and senior security professionals. When not writing automation code in Go, Matt is pushing for DevSecOps everywhere via his involvement in open-source projects, presentations, trainings and new technology innovation. 
+          As a versatile engineer, Matt’s background spans software development, primarily web development, Linux system administration, penetration testing and application / cloud security. He thrives on tackling industry defining technical problems.
+          Currently, as a Founder and CTO at DefectDojo Inc, Matt is making an already great vulnerability management platform even better. Matt is also on the OWASP Global Board of Directors helping to progress open source AppSec. Previously, he delved deep into API Security at Noname Security and rolled out AppSec automation at USAA. Early in his career, Matt served as Director of Community and Operations at the OWASP Foundation, Senior AppSec Engineer at Duo Security, Senior Software Security Engineer at Pearson and Senior Product Security Engineer at Rackspace. 
+      Title: OWASP in Action - ASPM with OWASP Projects - 2 Day Training
+      URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
+      SectionId: sku_HAIIE
+      Description: >-
       If you are facing the challenge of Application Security Posture Management amidst a plethora of applications and issues, this course is designed to streamline the process using OWASP’s open source projects, optimized for DevSecOps workflows. Over the span of two days, you’ll engage in interactive lectures and labs that showcase the effective application of OWASP tools, as previously implemented by seasoned AppSec teams. Recognizing that the size of AppSec teams is often a limiting factor, the course emphasizes automation of routine tasks to free up your time for more complex problem-solving. Upon completion, you will be equipped with a comprehensive set of strategies and tools to enhance your AppSec initiatives through automation and the integration of OWASP projects, all delivered at DevSecOps pace. The instructors, with over two decades of industry and OWASP project experience, offer practical, proven guidance for achieving success in ASPM
