@@ -485,4 +485,60 @@
   URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
   SectionId: sku_HAIIE
   Description: >-
-      If you are facing the challenge of Application Security Posture Management amidst a plethora of applications and issues, this course is designed to streamline the process using OWASP’s open source projects, optimized for DevSecOps workflows. Over the span of two days, you’ll engage in interactive lectures and labs that showcase the effective application of OWASP tools, as previously implemented by seasoned AppSec teams. Recognizing that the size of AppSec teams is often a limiting factor, the course emphasizes automation of routine tasks to free up your time for more complex problem-solving. Upon completion, you will be equipped with a comprehensive set of strategies and tools to enhance your AppSec initiatives through automation and the integration of OWASP projects, all delivered at DevSecOps pace. The instructors, with over two decades of industry and OWASP project experience, offer practical, proven guidance for achieving success in ASPM
+      If you are facing the challenge of Application Security Posture Management amidst a plethora of applications and issues, this course is designed to streamline the process using OWASP’s open source projects, optimized for DevSecOps workflows. 
+      Over the span of two days, you’ll engage in interactive lectures and labs that showcase the effective application of OWASP tools, as previously implemented by seasoned AppSec teams. Recognizing that the size of AppSec teams is often a limiting 
+      factor, the course emphasizes automation of routine tasks to free up your time for more complex problem-solving. Upon completion, you will be equipped with a comprehensive set of strategies and tools to enhance your AppSec initiatives through 
+      automation and the integration of OWASP projects, all delivered at DevSecOps pace. The instructors, with over two decades of industry and OWASP project experience, offer practical, proven guidance for achieving success in ASPM.
+      <br>
+      <span style="font-size:larger;font-weight:bold;">Outline</span>
+      <br>      
+      <ul><li><strong>Introduction</strong></li>
+        <ul><li>Application Security Programs</li>
+        <li>AppSec – Current State of Affairs</li>
+        <li>ASPM – Why?</li>
+        <li>Lab #1 – Getting to know the Lab Dockers</li></ul>
+      <li><strong>Docker Overview</strong></li>
+        <ul><li>Why Docker?</li>
+        <li>Docker Fundamentals</li>
+        <li>Dockerfiles, volumes, layers and more</li>
+        <li>Being productive with Docker</li>
+        <li>Lab #2 - Dockerizing a security tool</li></ul>
+      <li><strong>OWASP DefectDojo</strong></li>
+        <ul><li>One source</li>
+        <li>One place</li>
+        <li>Findings</li>
+        <li>Reports</li>
+        <li>Integrations</li>
+        <li>REST API</li>
+        <li>Inventory</li>
+        <li>Lab #3 DefectDojo on Intake</li>
+        <li>Lab #4 DefectDojo on Engagements and managing data</li>
+        <li>Lab #5 DefectDojo on delivering results</li></ul>
+      <li><strong>OWASP and other OS Testing Tools</strong></li>
+        <ul><li>ZAP</li>
+        <li>Dependency Check and Dependency Track</li>
+        <li>ModSecurity Core Rule Set</li>
+        <li>O-Saft, Amass, Find Security Bugs, OWASP Sedated</li>
+        <li>Glue, AppSec Pipeline/Gasp, OWTF</li>
+        <li>Lab #6 - Getting to know the testing tools</li></ul>
+      <li><strong>OWASP Docs you need to use</strong></li>
+        <ul><li>ASVS</li>
+        <li>Testing Guide & Mobile Security Testing Guide</li>
+        <li>SAMM</li>
+        <li>Top 10 Proactive Controls</li>
+        <li>Cheat Sheet Series</li>
+        <li>Top 10</li>
+        <li>Automated Threats to Web Applications</li>
+        <li>SecLists Project</li>
+        <li>DevSecOps Maturity Model</li>
+        <li>Docker, Container and API projects</li>
+        <li>Lab #7 - Putting the docs to work for you</li></ul>
+      <li><strong>OWASP Training Tools</strong></li>
+        <ul><li>JuiceShop</li>
+        <li>WebGoat</li>
+        <li>Security Shepherd</li>
+        <li>DevSlop & Pixi</li>
+        <li>Secure Coding Dojo</li>
+        <li>Vulnerable Web Applications Directory</li>
+        <li>Lab #8 - DIY CTF</li></ul>
+      <li><strong>Conclusion</strong></li></ul>
