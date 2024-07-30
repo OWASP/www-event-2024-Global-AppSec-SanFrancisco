@@ -298,6 +298,11 @@
    url: https://www.openrefactory.com/technology/
    backgroundSize: 125px
    type: Silver
+ - logo: /assets/images/sponsors/LegitSecurity.jpeg
+   name: Legit Security
+   url: https://www.legitsecurity.com/
+   backgroundSize: 125px
+   type: Gold
 
  
    
