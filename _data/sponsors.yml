@@ -313,5 +313,10 @@
    url: https://www.contrastsecurity.com/
    backgroundSize: 125px
    type: Silver
+ - logo: /assets/images/sponsors/Tuffle.png
+   name: Truffle Security
+   url: https://trufflesecurity.com/
+   backgroundSize: 125px
+   type: Silver
  
    
