@@ -318,5 +318,11 @@
    url: https://trufflesecurity.com/
    backgroundSize: 125px
    type: Silver
+ - logo: /assets/images/sponsors/Piiano-Logo.png
+   name: Piiano
+   url: https://www.piiano.com/
+   backgroundSize: 125px
+   type: DevDays Sponsor
+  
  
    
