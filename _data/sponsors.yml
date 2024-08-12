@@ -323,6 +323,11 @@
    url: https://www.piiano.com/
    backgroundSize: 125px
    type: DevDays Sponsor
+ - logo: /assets/images/sponsors/Pangea.png
+   name: Pangea
+   url: https://pangea.cloud/
+   backgroundSize: 125px
+   type: Gold
   
  
    
