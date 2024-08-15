@@ -328,6 +328,11 @@
    url: https://pangea.cloud/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/Operant.png
+   name: Operant.ai
+   url: https://www.operant.ai/
+   backgroundSize: 125px
+   type: Gold
   
  
    
