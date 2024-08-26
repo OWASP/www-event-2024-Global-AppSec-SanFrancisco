@@ -339,6 +339,11 @@ Tuffle.png
    url: https://promon.co/
    backgroundSize: 125px
    type: OWASP Spectacula
+ - logo: /assets/images/sponsors/SecureCodeWarrior.png
+   name: Secure Code Warrior
+   url: https://www.securecodewarrior.com/
+   backgroundSize: 125px
+   type: Gold
   
  
    
