@@ -334,6 +334,11 @@ Tuffle.png
    url: https://www.operant.ai/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/Promon.png
+   name: Promon
+   url: https://promon.co/
+   backgroundSize: 125px
+   type: OWASP Spectacula
   
  
    
