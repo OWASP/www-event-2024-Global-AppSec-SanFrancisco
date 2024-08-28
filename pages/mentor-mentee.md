@@ -6,4 +6,27 @@ permalink: /mentor-mentee/
 
 ---
 **2024 Global AppSec San Francisco Mentor/Mentee Program**
+One more Global AppSec event. 
+You’re taking training, you’re running between sessions, you’re connecting with people over coffee or when talking to a vendor. 
 
+What if you could use the event to also meet a potential mentor, or mentee? 
+What if you could connect face to face with someone who may help take your career to the next level, or that you can help and make a difference with?
+
+We are inviting you to an OWASP Global AppSec activity, first of its kind in an OWASP event: Meet The Mentor! A speed-dating activity between potential mentors and mentees where you can come face to face and see if it “clicks”, start a conversation, and see if it is a match. 
+
+In order to get this going we are inviting interested potential mentors to fill the form here. Submissions are open until September 1, 2024. There are no special requirements, but we suggest, at a minimum:
+
+Industry Experience - be ready to share all those years of success and lessons learned 
+Available Time - OWASP will not be driving the actual mentoring sessions, and these are left for the pair to decide, but a cadence of at least once a month is strongly suggested
+
+What is in it for you, you ask?
+
+Fame and fortune - well, not really, mentors will not be receiving any kind of compensation, but you’ll be giving back to the community - as we all at least once have received. But hey, in a year you both can come back and present about the engagement at an OWASP Global AppSec event!
+
+Experience - there is nothing like teaching to help one learn. Sharing your knowledge with someone else will make you a better practitioner, guaranteed!
+
+Making a difference - think back to the last time you thought “I wish someone had told me about that before I did it”. Now you can be that someone. 
+
+Creating connections - mentors in all fields regularly comment on being enriched and coming out of mentorship engagements with a sense of fulfillment and connection.
+
+Come and be a mentor!
