@@ -5,7 +5,7 @@ layout: event_noheader
 permalink: /mentor-mentee/
 
 ---
-**2024 Global AppSec San Francisco Mentor/Mentee Program**
+**2024 Global AppSec San Francisco Mentor/Mentee Program**<br>
 One more Global AppSec event. 
 You’re taking training, you’re running between sessions, you’re connecting with people over coffee or when talking to a vendor. 
 
