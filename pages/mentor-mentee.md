@@ -31,3 +31,5 @@ Making a difference - think back to the last time you thought “I wish someone 
 Creating connections - mentors in all fields regularly comment on being enriched and coming out of mentorship engagements with a sense of fulfillment and connection.
 
 Come and be a mentor!
+
+If you are interested in connecting with a mentor within the OWASP community to guide you through the cybersecurity industry, review your resume or to simply ask questions on how you can better leverage yourself within the industry, or develop a longer term mentoring relationship, please complete the form <a href="https://owasp.wufoo.com/forms/zdjasgf1s616bj/">here</a> and plan to attend the Mentor/Mentee meeting on September 26th from 10:30am - 11:15am at the conference hotel. 
