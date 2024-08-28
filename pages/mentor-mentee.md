@@ -14,7 +14,7 @@ What if you could connect face to face with someone who may help take your caree
 
 We are inviting you to an OWASP Global AppSec activity, first of its kind in an OWASP event: Meet The Mentor! A speed-dating activity between potential mentors and mentees where you can come face to face and see if it “clicks”, start a conversation, and see if it is a match. 
 
-In order to get this going we are inviting interested potential mentors to fill the form here. Submissions are open until September 1, 2024. There are no special requirements, but we suggest, at a minimum:
+In order to get this going we are inviting interested potential mentors to fill the form here. Submissions are open until September 16, 2024. There are no special requirements, but we suggest, at a minimum:
 
 Industry Experience - be ready to share all those years of success and lessons learned 
 Available Time - OWASP will not be driving the actual mentoring sessions, and these are left for the pair to decide, but a cadence of at least once a month is strongly suggested
