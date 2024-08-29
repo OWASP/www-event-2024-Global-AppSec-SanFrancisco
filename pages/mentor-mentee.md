@@ -38,12 +38,12 @@ If you are interested in connecting with a mentor within the OWASP community to 
   <tr>
     <td align="center">
       <a href="https://owasp.wufoo.com/forms/z1x359bn1e1o0wt/">
-        <img src="BecomeAMentor.png" alt="Become a Mentor" style="width:100%;">
+        <img src="assets/images/BecomeAMentor.png" alt="Become a Mentor" style="width:100%;">
       </a>
     </td>
     <td align="center">
       <a href="https://owasp.wufoo.com/forms/zdjasgf1s616bj/">
-        <img src="BecomeAMentee.png" alt="Become a Mentee" style="width:100%;">
+        <img src="assets/images/BecomeAMentee.png" alt="Become a Mentee" style="width:100%;">
       </a>
     </td>
   </tr>
