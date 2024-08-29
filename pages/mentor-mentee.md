@@ -33,3 +33,18 @@ Creating connections - mentors in all fields regularly comment on being enriched
 Come and be a mentor!
 
 If you are interested in connecting with a mentor within the OWASP community to guide you through the cybersecurity industry, review your resume or to simply ask questions on how you can better leverage yourself within the industry, or develop a longer term mentoring relationship, please complete the form <a href="https://owasp.wufoo.com/forms/zdjasgf1s616bj/">here</a> and plan to attend the Mentor/Mentee meeting on September 26th from 10:30am - 11:15am at the conference hotel. 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://owasp.wufoo.com/forms/z1x359bn1e1o0wt/">
+        <img src="BecomeAMentor.png" alt="Become a Mentor" style="width:100%;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://owasp.wufoo.com/forms/zdjasgf1s616bj/">
+        <img src="BecomeAMentee.png" alt="Become a Mentee" style="width:100%;">
+      </a>
+    </td>
+  </tr>
+</table>
