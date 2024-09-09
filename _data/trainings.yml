@@ -269,28 +269,6 @@
 
       This class is an intense, deep-dive experience in Multi-Cloud Application Security. We’d like participants to explore practical implementations of full-fledged environments, rather than have a surface-level understanding of attack and defense in AWS, Azure, and GCP. 
 - Type: Training
-  Trainers:
-    - Name: Vishnu Prasad
-      Email: vishnu.prasad@we45.com
-      Image: /assets/images/vishnup.jpg
-      Twitter: visheprasad
-      Biography: >-
-          Vishnu Prasad is a DevSecOps Lead at we45. A DevSecOps and Security Automation wizard, he has implemented security in DevOps for numerous Fortune 500 companies.
-
-          Vishnu has experience in Continuous Integration and Continuous Delivery across various verticals, using tools like Jenkins, Selenium, Docker, and other DevOps tools. His role sees him automating SAST, DAST, and SCA security tools at every phase of the build pipeline. He commands knowledge of every major security tool out there, including ZAP, Burp, Findsecbugs, and npm audit, among many others. He’s a tireless innovator, having Dockerized his entire security automation process for cross-platform support to build pipelines seamlessly.
-
-          His experience extends even beyond DevSecOps, he designs and develops Web Application Security tools, performs vulnerability management and orchestration, and consults on security assessments for major companies. He’s proficient in languages like Python, Java, Javascript, Angular, and more. He regularly trains major companies and team members on application security automation, DevSecOps, and AppSec Essentials as well.
-  TrainerId: trainer006
-  Title: Attacking the Application Supply Chain - 3 Day Training
-  URL: https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator
-  SectionId: sku_AASC
-  Description: >-
-      Supply Chain risks are everywhere. We’ve seen a burst of supply chain exploits against organizations, totaling billions of dollars of value lost. Supply-chain security and implementation is essential and required by regulation. However, pentesters and red-teams must understand how they can leverage supply-chain attacks against applications, to further strengthen their defense implementations against it.
-
-      This training is a deep hands-on, red-team exploration of application supply-chains. We commence with an understanding of application supply chains, and subsequently dive into story-driven scenarios of exploiting supply-chains like exploiting CI systems, and build systems. Container infrastructure and cloud-native infrastructure hosted on Kubernetes, AWS, and Azure.
-
-      People learn better with stories. Our exploit and lateral movement scenarios are intricately designed labs that are backed by real-world stories that help students understand this subject-matter a lot better. This training was sold out at Blackhat USA 2023 with a 4.8/5 Rating
-- Type: Training
   Trainers: 
     - Name: Harold Blankenship
       Email: harold.blankenship@owasp.org
