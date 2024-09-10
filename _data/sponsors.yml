@@ -343,6 +343,12 @@
    url: https://www.securecodewarrior.com/
    backgroundSize: 125px
    type: Gold
+ - logo: /assets/images/sponsors/CrowdStrike_Logo_2023_Primary_Black.png
+   name: CrowdStrike
+   url: https://www.crowdstrike.com/en-us/
+   backgroundSize: 125px
+   type: Gold
+
   
  
    
