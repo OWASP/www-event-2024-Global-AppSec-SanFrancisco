@@ -348,11 +348,11 @@
    url: https://www.crowdstrike.com/en-us/
    backgroundSize: 125px
    type: Gold
-- logo: /assets/images/sponsors/Dynatrace.jpg
-  name: Dynatrace
-  url: https://www.dynatrace.com/
-  backgroundSize: 125px
-  type: Gold
+ - logo: /assets/images/sponsors/Dynatrace.jpg
+   name: Dynatrace
+   url: https://www.dynatrace.com/
+   backgroundSize: 125px
+   type: Gold
   
  
    
